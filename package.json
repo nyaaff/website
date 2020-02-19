@@ -1,0 +1,16 @@
+{
+  "name": "nyaaff.com",
+  "version": "1.0.0",
+  "description": "A website for NYAAFF",
+  "scripts": {
+    "build": "node ./buildScript.js"
+  },
+  "keywords": [],
+  "author": "Josh Brown",
+  "dependencies": {
+    "ejs2static": "^2.0.0"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
