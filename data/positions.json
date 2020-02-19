@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Preserving Family Bonds Act (12/11/19, 10/21/19, 7/9/19)",
+    "billno": "A02199A/S04203A",
+    "position": "Oppose",
+    "status": "Pending (2019 – passed Senate and Assembly, vetoed by Governor)",
+    "files": ["2019.12.11-Preserving-Family-Bonds.pdf"]
+  },
+  {
+    "title": "Child Parent Security Act (11/20/19, June 5, 2017)",
+    "billno": "A01071C/S02071B",
+    "position": "Support",
+    "status": "Pending (2019 – passed Senate, no vote in Assembly)",
+    "files": ["2017.06.05-Child-Parent-Security-Act.pdf", "2019.11.20-CPSA-Egg-Donation.pdf"]
+  },
+  {
+    "title": "Adoptees Access to Original Birth Certificates (10/21/19, 6/7/16)",
+    "billno": "A05494/S03419",
+    "position": "Support",
+    "status": "Enacted",
+    "files": ["2019.10.21-Open-Birth-Records.pdf", "2016.06.07-Open-Birth-Records.pdf"]
+  },
+  {
+    "title": "Conforms Social Services Law to Expanded Definition of “Relative” for Foster Care & Kinship Guardianship (10/21/19)",
+    "billno": "A00569/S02714",
+    "position": "Support",
+    "status": "Enacted",
+    "files": ["2019.10.21-kinGAP-2.pdf"]
+  },
+  {
+    "title": "Conforms Family Court Act to Expanded Definition of “Relative” for Foster Care & Kinship Guardianship (10/21/19)",
+    "billno": "A-01071C/S02071-B, A08059/S06405",
+    "position": "Support",
+    "status": "Enacted",
+    "files": ["2019.10.21-kinGAP-1.pdf"]
+  },
+  {
+    "title": "Confirms Availability of Step-Parent Adoptions for Married Same Sex Couples (10/10/19)",
+    "billno": "A00460/S03999",
+    "position": "Support",
+    "status": "Enacted",
+    "files": ["2019.09.10-Stepparent-Adoptions.pdf"]
+  },
+  {
+    "title": "Reuniting Families Act (8/1/19)",
+    "billno": "A02106A/S05024A",
+    "position": "Support",
+    "status": "Enacted",
+    "files": ["2019.08.01-Reuniting-Families-Act.pdf"]
+  },
+  {
+    "title": "Notice and Consent Rights of Unwed Birth Fathers in Adoptions (6/3/19)",
+    "billno": "Not Applicable",
+    "position": "Oppose",
+    "status": "Not Enacted",
+    "files": ["2019.06.03-Birth-Father-Notice.pdf"]
+  }
+]
