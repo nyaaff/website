@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.content-wrapper {
+    padding: 20px;
+    font-size: 25px;
+    color: rgba(38, 38, 38, 0.84);
+    max-width: 1500px;
+    margin: 0 auto;
+}
+.content-wrapper h2 {
+    text-align: center;
+}
+
+@media screen and (max-width: 975px) {
+    body {
+        margin-top: 111px;
+    }
+    .content-wrapper {
+        font-size: 21px;
+    }
+
+    .content-wrapper p {
+        text-align: justify;
+    }
+}

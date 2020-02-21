@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%- include partials/head.ejs %>
+    <link rel="stylesheet" href="/css/efforts.css">
+    <title>Legislative Efforts | NYAAFF</title>
+</head>
+<body>
+<%- include("partials/header.ejs", {page: "efforts" }) %>
+<div class="top-image">
+    <div class="text-wrapper">
+        <h1>Legislative Efforts</h1>
+        <span class="subtext">Our Work</span>
+    </div>
+</div>
+<div class="content-wrapper">
+    <h2>Our Work</h2>
+    <p class="info">NYAAFF’s main function is to monitor and weigh in on proposed legislation in the fields of adoption
+        and assisted reproduction in New York State. Based on our collective knowledge and experience in these areas, we
+        determine whether to support, oppose or propose revisions to each piece of proposed legislation.</p>
+    <p class="info">NYAAFF also drafts legislation to address issues our clients are experiencing as a result of
+        problems with the current laws in the fields of adoption and assisted reproduction.</p>
+    <h2>Positions</h2>
+    <div class="efforts-list">
+        <% efforts.forEach(effort => { %>
+            <div class="effort-list--item">
+                <h3 class="title"><%= effort.title %></h3>
+                <span class="info">Position: <%= effort.position %></span>
+                <span class="info">Status: <%= effort.status %></span>
+                <span class="info">Bill Number: <%= effort.billno %></span>
+                <div class="file-list">
+                    <% effort.files.forEach((file, index) => { %>
+                        <a target="_blank" href="/assets/position-pdfs/<%= file %>"
+                           class="file-list--item">PDF <%= index + 1 %></a>
+                    <% }); %>
+                </div>
+            </div>
+        <% }) %>
+    </div>
+</div>
+<%- include partials/footer.ejs %>
+</body>
+</html>
