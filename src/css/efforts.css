@@ -1,6 +1,12 @@
 .top-image {
-    background-image: url("/assets/images/statue-of-liberty-1210001_1920.jpg");
+   /* background-image: url("/assets/images/statue-of-liberty-1210001_1920.jpg");*/
+   background-image: url("/assets/images/courthouse.jpg");
 }
+
+.main-nav--item.active, .main-nav--item:hover {
+    color: #81bcff;
+}
+
 .efforts-list {
     margin: 30px 100px;
 }
