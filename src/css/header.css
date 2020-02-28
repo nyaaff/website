@@ -7,14 +7,14 @@
     z-index: 100;
     top: 0;
     padding: 20px 50px;
-    background: linear-gradient(rgba(154, 104, 70, 0.15) 80%,rgba(154, 104, 70, 0));
+    background: linear-gradient(rgba(154, 104, 70, 0.15) 80%, rgba(154, 104, 70, 0));
     transition: background 1000ms;
     height: 111px;
     overflow: hidden;
 }
 
 .header.scrolled {
-/*    background: rgba(154, 104, 70, 0.9);*/
+    /*    background: rgba(154, 104, 70, 0.9);*/
     background: rgb(34, 38, 43);
 }
 
@@ -39,7 +39,7 @@
 
 .header.scrolled .header--logo-wrapper {
     background: white;
-    box-shadow: rgba(0,0,0,0.4) 0 0 25px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0 0 25px;
 }
 
 
@@ -47,7 +47,8 @@
     font-size: 2.2vw;
     font-weight: 700;
     text-transform: uppercase;
-    text-shadow: rgba(0,0,0,0.9) 0 0 25px;
+    text-shadow: rgba(0, 0, 0, 0.9) 0 0 25px;
+    display: flex;
 }
 
 @media screen and (min-width: 1350px) {
@@ -66,8 +67,21 @@
     text-decoration: none;
 }
 
-.main-nav--item.active, .main-nav--item:hover {
-    color: #285d9a;
+.main-nav--item:after {
+    content: " ";
+    display: block;
+    height: 3px;
+    background: #3075be;
+    width: 0;
+    transition: width 250ms ease-in-out;
+}
+
+.main-nav--item.active:after, .main-nav--item:hover:after {
+    width: 100%;
+}
+
+.main-nav--item.active:after {
+    background: #ffbb3b;
 }
 
 .top-image {
@@ -103,13 +117,14 @@
     text-align: center;
     font-size: 30px;
     color: #f9f9f9;
-    text-shadow: rgba(0,0,0,0.6) 0 0 25px;
+    text-shadow: rgba(0, 0, 0, 0.6) 0 0 25px;
 }
 
 .top-image .text-wrapper h1 {
     margin: 0;
     font-size: 85px;
 }
+
 .top-image .text-wrapper .subtext {
     font-weight: 500;
     font-size: 35px;
@@ -127,7 +142,7 @@
     cursor: pointer;
 }
 
-@media screen and (max-width: 350px){
+@media screen and (max-width: 350px) {
     .hamburger-wrapper {
         right: 16px;
     }
@@ -147,7 +162,7 @@
     }
 
     .header {
-        background: rgba(69, 80, 95, 1);
+        background: rgb(34, 38, 43);
         overflow: hidden;
     }
 
@@ -157,7 +172,7 @@
 
     .header--logo-wrapper {
         background: white;
-        box-shadow: rgba(0,0,0,0.4) 0 0 25px;
+        box-shadow: rgba(0, 0, 0, 0.4) 0 0 25px;
     }
 
     .main-nav {

@@ -3,9 +3,9 @@
    background-image: url("/assets/images/courthouse.jpg");
 }
 
-.main-nav--item.active, .main-nav--item:hover {
+/*.main-nav--item.active, .main-nav--item:hover {
     color: #81bcff;
-}
+}*/
 
 .efforts-list {
     margin: 30px 100px;
