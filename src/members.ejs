@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%- include partials/head.ejs %>
+    <link rel="stylesheet" href="/css/members.css">
+    <title>Members | NYAAFF</title>
+</head>
+<body>
+<%- include("partials/header.ejs", {page: "members" }) %>
+<div class="top-image">
+    <div class="text-wrapper">
+        <h1>Members</h1>
+        <span class="subtext">Who We Are</span>
+    </div>
+</div>
+<div class="content-wrapper">
+    <h2>Members</h2>
+    <div class="members-list">
+        <% members.forEach(member => { %>
+            <div class="member">
+                <% if(member.image) { %>
+                    <img src="/assets/profile_pics/<%= member.image %>" class="member--image">
+                <% } else  { %>
+                    <div class="member--image"></div>
+                <% } %>
+                <div class="member--info">
+                    <span class="member--name"><%= member.name %></span>
+                    <span><%= member.law_firm %></span>
+                    <% const addressNum = member.addresses.length;
+                    for (let i = 0; i < addressNum; i++){ %>
+                        <div class="member--address">
+                            <span><%= member.addresses[i] %></span>
+                            <span><%= member.cities[i] %></span>
+                            <span><%= member.states[i] %></span>
+                            <span><%= member.zips[i] %></span>
+                        </div>
+                    <% } %>
+                    <span><%= member.phone %></span>
+                    <a href="mailto:<% member.email %>"><%= member.email %></a>
+                    <% member.websites.forEach(website => { %>
+                        <a target="_blank"  href="<% website %>"><%= website %></a>
+                    <% }); %>
+                    <div class="member--links">
+                        <% Object.entries(member.social_media).forEach(([name, value]) => { if(!value) return %>
+                            <a target="_blank" href="<%= value %>" class="btn"><%= name %></a>
+                        <% }) %>
+                    </div>
+                    <span class="practice-areas-title">Areas of Practice</span>
+                    <ul>
+                        <% member.focuses.forEach(focus => { %>
+                            <li><%= focus %></li>
+                        <% }); %>
+                    </ul>
+                </div>
+            </div>
+        <% }) %>
+    </div>
+</div>
+<%- include partials/footer.ejs %>
+</body>
+</html>

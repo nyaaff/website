@@ -11,6 +11,7 @@
     "ejs2static": "^2.0.0"
   },
   "devDependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "fs-extra": "latest"
   }
 }

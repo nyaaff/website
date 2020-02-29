@@ -30,3 +30,18 @@ body {
         text-align: justify;
     }
 }
+
+.btn {
+    display: inline-block;
+    color: inherit;
+    text-decoration: none;
+    font-size: 15px;
+    background: #e9e9e9;
+    border: solid 1px #b6b6b6;
+    border-radius: 0.25rem;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+.btn:hover {
+    background: #d6d6d6;
+}
