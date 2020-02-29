@@ -1,0 +1,35 @@
+.top-image {
+   /* background-image: url("/assets/images/statue-of-liberty-1210001_1920.jpg");*/
+   background-image: url("/assets/images/courthouse.jpg");
+}
+
+/*.main-nav--item.active, .main-nav--item:hover {
+    color: #81bcff;
+}*/
+
+.efforts-list {
+    margin: 30px 100px;
+}
+@media screen and (max-width: 600px){
+    .efforts-list {
+        margin: 30px 0;
+    }
+}
+
+.effort-list--item {
+    margin: 50px 0;
+}
+.effort-list--item .title {
+    font-size: 25px;
+    margin: 5px 0;
+}
+.effort-list--item .info {
+    font-size: 20px;
+}
+.effort-list--item span {
+    display: block;
+}
+.file-list {
+    display: block;
+    margin-top: 10px;
+}
