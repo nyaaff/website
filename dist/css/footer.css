@@ -23,6 +23,11 @@
     font-size: 35px;
 }
 
+.backlink {
+    font-size: 13px;
+    color: gray;
+}
+
 @media screen and (max-width: 900px) {
     .footer {
         flex-direction: column;
