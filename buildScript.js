@@ -2,7 +2,7 @@ const Generator = require('ejs2static');
 
 const gen = new Generator({
     sourceDir: './src',
-    outputDir: './dist',
+    outputDir: './docs',
     copyAll: true,
     data: require('./getData')
 });
