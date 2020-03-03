@@ -7,14 +7,9 @@
     z-index: 100;
     top: 0;
     padding: 20px 50px;
-    background: linear-gradient(rgba(154, 104, 70, 0.15) 80%, rgba(154, 104, 70, 0));
     transition: background 1000ms;
     height: 111px;
     overflow: hidden;
-}
-
-.header.scrolled {
-    /*    background: rgba(154, 104, 70, 0.9);*/
     background: rgb(34, 38, 43);
 }
 
@@ -37,7 +32,7 @@
     width: 100%;
 }
 
-.header.scrolled .header--logo-wrapper {
+.header .header--logo-wrapper {
     background: white;
     box-shadow: rgba(0, 0, 0, 0.4) 0 0 25px;
 }
