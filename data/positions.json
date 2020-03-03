@@ -1,6 +1,7 @@
 [
   {
     "title": "Preserving Family Bonds Act (12/11/19, 10/21/19, 7/9/19)",
+    "date": "12/11/19",
     "billno": "A02199A/S04203A",
     "position": "Oppose",
     "status": "Pending (2019 – passed Senate and Assembly, vetoed by Governor)",
@@ -10,6 +11,7 @@
   },
   {
     "title": "Child Parent Security Act (11/20/19, June 5, 2017)",
+    "date": "11/20/19",
     "billno": "A01071C/S02071B",
     "position": "Support",
     "status": "Pending (2019 – passed Senate, no vote in Assembly)",
@@ -20,6 +22,7 @@
   },
   {
     "title": "Adoptees Access to Original Birth Certificates (10/21/19, 6/7/16)",
+    "date": "10/21/19",
     "billno": "A05494/S03419",
     "position": "Support",
     "status": "Enacted",
@@ -30,6 +33,7 @@
   },
   {
     "title": "Conforms Social Services Law to Expanded Definition of “Relative” for Foster Care & Kinship Guardianship (10/21/19)",
+    "date": "10/21/19",
     "billno": "A00569/S02714",
     "position": "Support",
     "status": "Enacted",
@@ -39,6 +43,7 @@
   },
   {
     "title": "Conforms Family Court Act to Expanded Definition of “Relative” for Foster Care & Kinship Guardianship (10/21/19)",
+    "date": "10/21/19",
     "billno": "A-01071C/S02071-B, A08059/S06405",
     "position": "Support",
     "status": "Enacted",
@@ -48,6 +53,7 @@
   },
   {
     "title": "Confirms Availability of Step-Parent Adoptions for Married Same Sex Couples (10/10/19)",
+    "date": "10/10/19",
     "billno": "A00460/S03999",
     "position": "Support",
     "status": "Enacted",
@@ -57,6 +63,7 @@
   },
   {
     "title": "Reuniting Families Act (8/1/19)",
+    "date": "8/1/19",
     "billno": "A02106A/S05024A",
     "position": "Support",
     "status": "Enacted",
@@ -66,6 +73,7 @@
   },
   {
     "title": "Notice and Consent Rights of Unwed Birth Fathers in Adoptions (6/3/19)",
+    "date": "6/3/19",
     "billno": "Not Applicable",
     "position": "Oppose",
     "status": "Not Enacted",
@@ -75,6 +83,7 @@
   },
   {
     "title": "Surrogacy Bill With Delayed Parentage (2/19/20)",
+    "date": "2/19/20",
     "billno": "S07717",
     "position": "Oppose",
     "status": "Pending",

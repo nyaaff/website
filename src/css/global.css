@@ -3,9 +3,10 @@
 }
 
 body {
-    margin: 0;
     padding: 0;
     font-family: 'Montserrat', sans-serif;
+    margin: 111px 0 0;
+
 }
 
 .content-wrapper {
@@ -21,10 +22,6 @@ body {
 }
 
 @media screen and (max-width: 975px) {
-    body {
-        margin-top: 111px;
-    }
-
     .content-wrapper {
         font-size: 21px;
     }

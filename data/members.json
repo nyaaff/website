@@ -1,788 +1,794 @@
-[
-  {
-    "id": 1,
-    "name": "Suzanne B. Nichols",
-    "law_firm": "Rosenstock Lowe & Nichols",
-    "addresses": [
-      "800 Westchester Ave. #641N"
-    ],
-    "cities": [
-      "Rye Brook"
-    ],
-    "states": [
-      "NY"
-    ],
-    "zips": [
-      "10573"
-    ],
-    "phone": "914-697-4870",
-    "email": "suzanne@rlnlaw.com",
-    "websites": [
-      "http://www.rlnlaw.com"
-    ],
-    "social_media": {
-      "Facebook": null,
-      "Twitter": null,
-      "LinkedIn": null,
-      "YouTube": null,
-      "Instagram": null
+{
+  "officers": [
+    {
+      "id": 17,
+      "name": "Casey Copps DiPaola, Esq. - President",
+      "law_firm": "Copps DiPaola Silverman, PLLC",
+      "addresses": [
+        "1 Marcus Blvd., Suite 200"
+      ],
+      "cities": [
+        "Albany"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "12205"
+      ],
+      "phone": "518-436-4170",
+      "email": "kdipaola@theCDSLawFirm.com",
+      "websites": [
+        "http://www.theCDSLawFirm.com"
+      ],
+      "social_media": {
+        "Facebook": "https://www.facebook.com/CoppsDiPaolaSilverman/",
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": [
+        "Adoption",
+        "ART"
+      ]
     },
-    "focuses": [
-      "Adoption",
-      "ART"
-    ]
-  },
-  {
-    "id": 2,
-    "name": "Gregory A. Franklin",
-    "law_firm": "Ashcraft Franklin & Young, LLP",
-    "addresses": [
-      "150 Allens Creek Road"
-    ],
-    "cities": [
-      "Rochester"
-    ],
-    "states": [
-      "NY"
-    ],
-    "zips": [
-      "14618"
-    ],
-    "phone": "585-442-0540 x307",
-    "email": "Gfranklin@AFYLaw.com",
-    "websites": [
-      "http://www.AdoptionNY.com"
-    ],
-    "social_media": {
-      "Facebook": null,
-      "Twitter": null,
-      "LinkedIn": null,
-      "YouTube": null,
-      "Instagram": null
+    {
+      "id": 3,
+      "name": "Rebecca L. Mendel - Vice President",
+      "law_firm": "Rosin Steinhagen Mendel, PLLC",
+      "addresses": [
+        "228 East 45th Street, Suite 900"
+      ],
+      "cities": [
+        "New York"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "10017"
+      ],
+      "phone": "212-972-5430",
+      "email": "rmendel@lawrsm.com",
+      "websites": [
+        "http://www.lawrsm.com"
+      ],
+      "social_media": {
+        "Facebook": "https://www.facebook.com/nycfamilylaw/",
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": [
+        "Adoption",
+        "ART"
+      ]
     },
-    "focuses": [
-      "Adoption",
-      "ART"
-    ]
-  },
-  {
-    "id": 3,
-    "name": "Rebecca L. Mendel",
-    "law_firm": "Rosin Steinhagen Mendel, PLLC",
-    "addresses": [
-      "228 East 45th Street, Suite 900"
-    ],
-    "cities": [
-      "New York"
-    ],
-    "states": [
-      "NY"
-    ],
-    "zips": [
-      "10017"
-    ],
-    "phone": "212-972-5430",
-    "email": "rmendel@lawrsm.com",
-    "websites": [
-      "http://www.lawrsm.com"
-    ],
-    "social_media": {
-      "Facebook": "https://www.facebook.com/nycfamilylaw/",
-      "Twitter": null,
-      "LinkedIn": null,
-      "YouTube": null,
-      "Instagram": null
+    {
+      "id": 16,
+      "name": "Joseph R. Williams, Esq. - Treasurer",
+      "law_firm": "Copps DiPaola Silverman, PLLC",
+      "addresses": [
+        "1 Marcus Blvd., Suite 200"
+      ],
+      "cities": [
+        "Albany"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "12205"
+      ],
+      "phone": "518-436-4170",
+      "email": "jwilliams@theCDSLawFirm.com",
+      "websites": [
+        "http://www.theCDSLawFirm.com"
+      ],
+      "social_media": {
+        "Facebook": "https://www.facebook.com/CoppsDiPaolaSilverman/",
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": [
+        "Adoption",
+        "ART"
+      ]
     },
-    "focuses": [
-      "Adoption",
-      "ART"
-    ]
-  },
-  {
-    "id": 4,
-    "name": "Debbie Wolf",
-    "law_firm": "Forever Families Through Adoption, Inc.",
-    "addresses": [
-      ""
-    ],
-    "cities": [
-      "Rye Brook"
-    ],
-    "states": [
-      "NY"
-    ],
-    "zips": [
-      "10573"
-    ],
-    "phone": "914-939-1180",
-    "email": "DebbieW@ForeverFamiliesThroughAdoption.org",
-    "websites": [
-      "http://www.foreverfamiliesthroughadoption.org",
-      "https://adoptionart.org"
-    ],
-    "social_media": {
-      "Facebook": null,
-      "Twitter": null,
-      "LinkedIn": null,
-      "YouTube": null,
-      "Instagram": null
+    {
+      "id": 13,
+      "name": "Laurie B. Goldheim - Secretary",
+      "law_firm": "Law Office of Laurie B. Goldheim",
+      "addresses": [
+        "P.O. Box 142"
+      ],
+      "cities": [
+        "Briarcliff Manor"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "10510"
+      ],
+      "phone": "845-624-2727",
+      "email": "lgoldheim@adoptionrights.com",
+      "websites": [
+        "http://www.adoptionrights.com"
+      ],
+      "social_media": {
+        "Facebook": "https://www.facebook.com/LawOfficesofLaurieBGoldheim/",
+        "Twitter": "https://twitter.com/LGoldheim",
+        "LinkedIn": "https://www.linkedin.com/in/laurie-goldheim-170a585/",
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": [
+        "Adoption",
+        "ART"
+      ]
+    }
+  ],
+  "directors": [
+    {
+      "id": 8,
+      "name": "Amelia Demma, Esq.",
+      "law_firm": "Law Offices of Amy Demma",
+      "addresses": [
+        "81 Newtown Lane., No. 355"
+      ],
+      "cities": [
+        "East Hampton"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "11937"
+      ],
+      "phone": "516-662-7532",
+      "email": "Amy.Demma@lawofficesofamydemma.com",
+      "websites": [
+        "http://lawofficesofamydemma.com"
+      ],
+      "social_media": {
+        "Facebook": "http://www.facebook.com/amy.demma.law",
+        "Twitter": "http://twitter.com/amydemma",
+        "LinkedIn": "http://www.linkedin.com/in/amydemma",
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": [
+        "ART"
+      ]
     },
-    "focuses": [
-      "Adoption"
-    ]
-  },
-  {
-    "id": 5,
-    "name": "Robin A. Fleischner",
-    "law_firm": "Robin A. Fleischner, Attorney at Law",
-    "addresses": [
-      "11 Riverside Drive, Suite 14MW" ,
-      "374 Millburn Avenue, Suite 303E"
-    ],
-    "cities": [
-      "New York",
-      "Millburn"
-    ],
-    "states": [
-      "NY",
-      "NJ"
-    ],
-    "zips": [
-      "10023",
-      "07041"
-    ],
-    "phone": "212-362-6945",
-    "email": "formfamilies@gmail.com",
-    "websites": [
-      "https://adoptsurrogatelaw.com/"
-    ],
-    "social_media": {
-      "Facebook": "1. https://www.facebook.com/Adoption-and-Surrogacy-Attorney-Robin-Fleischner-1422519214632900/",
-      "Twitter": "https://twitter.com/robinfleischner?lang=en",
-      "LinkedIn": null,
-      "YouTube": "https://www.youtube.com/channel/UCcwaOo_lawKXaYIluVU0Q_Q",
-      "Instagram": "https://www.instagram.com/adoptsurrogatelaw/"
+    {
+      "id": 22,
+      "name": "Denise E. Seidelman, Esq.",
+      "law_firm": "Rumbold & Seidelman, LLP",
+      "addresses": [
+        "116 Kraft Avenue, Suite 3"
+      ],
+      "cities": [
+        "Bronxville"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "10708"
+      ],
+      "phone": "914-779-1050",
+      "email": "dseidelman@adoptionlawny.com",
+      "websites": [
+        "https://adoptionlawny.com/"
+      ],
+      "social_media": {
+        "Facebook": "https://www.facebook.com/RumboldandSeidelman/",
+        "Twitter": "https://twitter.com/adoptionlawnynj",
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": [
+        "Adoption",
+        "ART"
+      ]
     },
-    "focuses": [
-      "Adoption",
-      "ART"
-    ]
-  },
-  {
-    "id": 6,
-    "name": "Melissa B. Brisman",
-    "law_firm": "Melissa B. Brisman, Esq., LLC",
-    "addresses": [
-      "1 Paragon Dr., Suite 158"
-    ],
-    "cities": [
-      "Montvale"
-    ],
-    "states": [
-      "NJ"
-    ],
-    "zips": [
-      "07645"
-    ],
-    "phone": "201-505-0099",
-    "email": "info@reproductivelawyer.com",
-    "websites": [
-      "https://reproductivelawyer.com/"
-    ],
-    "social_media": {
-      "Facebook": "https://www.facebook.com/MelissaBBrismanEsq/",
-      "Twitter": "https://twitter.com/melissabrisman",
-      "LinkedIn": "https://www.linkedin.com/in/melissa-brisman-84a7736?authType=name&authToken=VAWz&trk=hp-feed-member-nam",
-      "YouTube": null,
-      "Instagram": null
+    {
+      "id": 2,
+      "name": "Gregory A. Franklin",
+      "law_firm": "Ashcraft Franklin & Young, LLP",
+      "addresses": [
+        "150 Allens Creek Road"
+      ],
+      "cities": [
+        "Rochester"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "14618"
+      ],
+      "phone": "585-442-0540 x307",
+      "email": "Gfranklin@AFYLaw.com",
+      "websites": [
+        "http://www.AdoptionNY.com"
+      ],
+      "social_media": {
+        "Facebook": null,
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": [
+        "Adoption",
+        "ART"
+      ]
     },
-    "focuses": [
-      "Adoption",
-      "ART"
-    ]
-  },
-  {
-    "id": 7,
-    "name": "Nancy M. Hartzband",
-    "law_firm": "Reproductive Possibilities, LLC",
-    "addresses": [
-      "One Paragon Drive, Suite 160"
-    ],
-    "cities": [
-      "Montvale"
-    ],
-    "states": [
-      "NJ"
-    ],
-    "zips": [
-      "07645"
-    ],
-    "phone": "201-505-0078",
-    "email": "nancy@ReproductivePossibilites.com",
-    "websites": [
-      "https://ReproductivePossibilities.com"
-    ],
-    "social_media": {
-      "Facebook": null,
-      "Twitter": null,
-      "LinkedIn": null,
-      "YouTube": null,
-      "Instagram": null
+    {
+      "id": 9,
+      "name": "Jeanine Castagna, Esq.",
+      "law_firm": "",
+      "addresses": [
+        "1225 Franklin Ave., Suite 325"
+      ],
+      "cities": [
+        "Garden City"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "11530"
+      ],
+      "phone": "516-495-7906",
+      "email": "jeanine@jcadoptionlaw.com",
+      "websites": [
+        "http://www.jcadoptionlaw.com"
+      ],
+      "social_media": {
+        "Facebook": null,
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": [
+        "Adoption"
+      ]
+    }
+  ],
+  "members": [
+    {
+      "id": 1,
+      "name": "Suzanne B. Nichols",
+      "law_firm": "Rosenstock Lowe & Nichols",
+      "addresses": [
+        "800 Westchester Ave. #641N"
+      ],
+      "cities": [
+        "Rye Brook"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "10573"
+      ],
+      "phone": "914-697-4870",
+      "email": "suzanne@rlnlaw.com",
+      "websites": [
+        "http://www.rlnlaw.com"
+      ],
+      "social_media": {
+        "Facebook": null,
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": [
+        "Adoption",
+        "ART"
+      ]
     },
-    "focuses": [
-      "ART"
-    ]
-  },
-  {
-    "id": 8,
-    "name": "Amelia Demma, Esq.",
-    "law_firm": "Law Offices of Amy Demma",
-    "addresses": [
-      "81 Newtown Lane., No. 355"
-    ],
-    "cities": [
-      "East Hampton"
-    ],
-    "states": [
-      "NY"
-    ],
-    "zips": [
-      "11937"
-    ],
-    "phone": "516-662-7532",
-    "email": "Amy.Demma@lawofficesofamydemma.com",
-    "websites": [
-      "http://lawofficesofamydemma.com"
-    ],
-    "social_media": {
-      "Facebook": "http://www.facebook.com/amy.demma.law",
-      "Twitter": "http://twitter.com/amydemma",
-      "LinkedIn": "http://www.linkedin.com/in/amydemma",
-      "YouTube": null,
-      "Instagram": null
+    {
+      "id": 4,
+      "name": "Debbie Wolf",
+      "law_firm": "Forever Families Through Adoption, Inc.",
+      "addresses": [
+        ""
+      ],
+      "cities": [
+        "Rye Brook"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "10573"
+      ],
+      "phone": "914-939-1180",
+      "email": "DebbieW@ForeverFamiliesThroughAdoption.org",
+      "websites": [
+        "http://www.foreverfamiliesthroughadoption.org",
+        "https://adoptionart.org"
+      ],
+      "social_media": {
+        "Facebook": null,
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": [
+        "Adoption"
+      ]
     },
-    "focuses": [
-      "ART"
-    ]
-  },
-  {
-    "id": 9,
-    "name": "Jeanine Castagna, Esq.",
-    "law_firm": "",
-    "addresses": [
-      "1225 Franklin Ave., Suite 325"
-    ],
-    "cities": [
-      "Garden City"
-    ],
-    "states": [
-      "NY"
-    ],
-    "zips": [
-      "11530"
-    ],
-    "phone": "516-495-7906",
-    "email": "jeanine@jcadoptionlaw.com",
-    "websites": [
-      "http://www.jcadoptionlaw.com"
-    ],
-    "social_media": {
-      "Facebook": null,
-      "Twitter": null,
-      "LinkedIn": null,
-      "YouTube": null,
-      "Instagram": null
+    {
+      "id": 5,
+      "name": "Robin A. Fleischner",
+      "law_firm": "Robin A. Fleischner, Attorney at Law",
+      "addresses": [
+        "11 Riverside Drive, Suite 14MW",
+        "374 Millburn Avenue, Suite 303E"
+      ],
+      "cities": [
+        "New York",
+        "Millburn"
+      ],
+      "states": [
+        "NY",
+        "NJ"
+      ],
+      "zips": [
+        "10023",
+        "07041"
+      ],
+      "phone": "212-362-6945",
+      "email": "formfamilies@gmail.com",
+      "websites": [
+        "https://adoptsurrogatelaw.com/"
+      ],
+      "social_media": {
+        "Facebook": "1. https://www.facebook.com/Adoption-and-Surrogacy-Attorney-Robin-Fleischner-1422519214632900/",
+        "Twitter": "https://twitter.com/robinfleischner?lang=en",
+        "LinkedIn": null,
+        "YouTube": "https://www.youtube.com/channel/UCcwaOo_lawKXaYIluVU0Q_Q",
+        "Instagram": "https://www.instagram.com/adoptsurrogatelaw/"
+      },
+      "focuses": [
+        "Adoption",
+        "ART"
+      ]
     },
-    "focuses": [
-      "Adoption"
-    ]
-  },
-  {
-    "id": 10,
-    "name": "Michael S. Goldstein, Esq., LCSW",
-    "law_firm": "",
-    "addresses": [
-      "62 Bowman Ave."
-    ],
-    "cities": [
-      "Rye Brook"
-    ],
-    "states": [
-      "NY"
-    ],
-    "zips": [
-      "10573"
-    ],
-    "phone": "914-939-1111",
-    "email": "info@AdoptGold.com",
-    "websites": [
-      "http://www.AdoptGold.com"
-    ],
-    "social_media": {
-      "Facebook": "https://www.facebook.com/pages/Michael-S-Goldstein-ESQ-LCSW-Adoption-Family-Law/222486144462279",
-      "Twitter": null,
-      "LinkedIn": null,
-      "YouTube": null,
-      "Instagram": null
+    {
+      "id": 6,
+      "name": "Melissa B. Brisman",
+      "law_firm": "Melissa B. Brisman, Esq., LLC",
+      "addresses": [
+        "1 Paragon Dr., Suite 158"
+      ],
+      "cities": [
+        "Montvale"
+      ],
+      "states": [
+        "NJ"
+      ],
+      "zips": [
+        "07645"
+      ],
+      "phone": "201-505-0099",
+      "email": "info@reproductivelawyer.com",
+      "websites": [
+        "https://reproductivelawyer.com/"
+      ],
+      "social_media": {
+        "Facebook": "https://www.facebook.com/MelissaBBrismanEsq/",
+        "Twitter": "https://twitter.com/melissabrisman",
+        "LinkedIn": "https://www.linkedin.com/in/melissa-brisman-84a7736?authType=name&authToken=VAWz&trk=hp-feed-member-nam",
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": [
+        "Adoption",
+        "ART"
+      ]
     },
-    "focuses": [
-      "Adoption"
-    ]
-  },
-  {
-    "id": 11,
-    "name": "Anthony M. Brown, Esq.",
-    "law_firm": "Time for Families Law, PLLC",
-    "addresses": [
-      "122 E. 42nd St., Ste 3900",
-      "100 Merrick Rd., Ste. 103E"
-    ],
-    "cities": [
-      "New York",
-      "Rockville"
-    ],
-    "states": [
-      "NY",
-      "NY"
-    ],
-    "zips": [
-      "10168",
-      "11570"
-    ],
-    "phone": "212-953-6447",
-    "email": "anthony@timeforfamilies.com",
-    "websites": [
-      "http://www.timeforfamilies.com"
-    ],
-    "social_media": {
-      "Facebook": null,
-      "Twitter": "https://twitter.com/AnthonyMBrown",
-      "LinkedIn": null,
-      "YouTube": null,
-      "Instagram": null
+    {
+      "id": 7,
+      "name": "Nancy M. Hartzband",
+      "law_firm": "Reproductive Possibilities, LLC",
+      "addresses": [
+        "One Paragon Drive, Suite 160"
+      ],
+      "cities": [
+        "Montvale"
+      ],
+      "states": [
+        "NJ"
+      ],
+      "zips": [
+        "07645"
+      ],
+      "phone": "201-505-0078",
+      "email": "nancy@ReproductivePossibilites.com",
+      "websites": [
+        "https://ReproductivePossibilities.com"
+      ],
+      "social_media": {
+        "Facebook": null,
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": [
+        "ART"
+      ]
     },
-    "focuses": [
-      "Adoption",
-      "ART"
-    ]
-  },
-  {
-    "id": 13,
-    "name": "Laurie B. Goldheim",
-    "law_firm": "Law Office of Laurie B. Goldheim",
-    "addresses": [
-      "P.O. Box 142"
-    ],
-    "cities": [
-      "Briarcliff Manor"
-    ],
-    "states": [
-      "NY"
-    ],
-    "zips": [
-      "10510"
-    ],
-    "phone": "845-624-2727",
-    "email": "lgoldheim@adoptionrights.com",
-    "websites": [
-      "http://www.adoptionrights.com"
-    ],
-    "social_media": {
-      "Facebook": "https://www.facebook.com/LawOfficesofLaurieBGoldheim/",
-      "Twitter": "https://twitter.com/LGoldheim",
-      "LinkedIn": "https://www.linkedin.com/in/laurie-goldheim-170a585/",
-      "YouTube": null,
-      "Instagram": null
+    {
+      "id": 10,
+      "name": "Michael S. Goldstein, Esq., LCSW",
+      "law_firm": "",
+      "addresses": [
+        "62 Bowman Ave."
+      ],
+      "cities": [
+        "Rye Brook"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "10573"
+      ],
+      "phone": "914-939-1111",
+      "email": "info@AdoptGold.com",
+      "websites": [
+        "http://www.AdoptGold.com"
+      ],
+      "social_media": {
+        "Facebook": "https://www.facebook.com/pages/Michael-S-Goldstein-ESQ-LCSW-Adoption-Family-Law/222486144462279",
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": [
+        "Adoption"
+      ]
     },
-    "focuses": [
-      "Adoption",
-      "ART"
-    ]
-  },
-  {
-    "id": 14,
-    "name": "Yekaterina (Kate) Trambitskaya",
-    "law_firm": "Spence-Chapin Services to Families & Children",
-    "addresses": [
-      "410 East 92nd St., 3rd Fl."
-    ],
-    "cities": [
-      "New York"
-    ],
-    "states": [
-      "NY"
-    ],
-    "zips": [
-      "10128"
-    ],
-    "phone": "212-360-0258",
-    "email": "ktrambitskaya@spence-chapin.org",
-    "websites": [
-      "http://spence-chapin.org"
-    ],
-    "social_media": {
-      "Facebook": "https://www.facebook.com/spencechapin",
-      "Twitter": "https://twitter.com/spencechapinsvc",
-      "LinkedIn": null,
-      "YouTube": null,
-      "Instagram": "https://www.instagram.com/spencechapinsvc/"
+    {
+      "id": 11,
+      "name": "Anthony M. Brown, Esq.",
+      "law_firm": "Time for Families Law, PLLC",
+      "addresses": [
+        "122 E. 42nd St., Ste 3900",
+        "100 Merrick Rd., Ste. 103E"
+      ],
+      "cities": [
+        "New York",
+        "Rockville"
+      ],
+      "states": [
+        "NY",
+        "NY"
+      ],
+      "zips": [
+        "10168",
+        "11570"
+      ],
+      "phone": "212-953-6447",
+      "email": "anthony@timeforfamilies.com",
+      "websites": [
+        "http://www.timeforfamilies.com"
+      ],
+      "social_media": {
+        "Facebook": null,
+        "Twitter": "https://twitter.com/AnthonyMBrown",
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": [
+        "Adoption",
+        "ART"
+      ]
     },
-    "focuses": [
-      "Adoption"
-    ]
-  },
-  {
-    "id": 15,
-    "name": "Bill Singer",
-    "law_firm": "Diana Adams Law and Mediation PLLC",
-    "addresses": [
-      "48 Wall Street, 11th Floor"
-    ],
-    "cities": [
-      "New York"
-    ],
-    "states": [
-      "NY"
-    ],
-    "zips": [
-      "10005"
-    ],
-    "phone": "347-994-9529",
-    "email": "Bill@DianaAdamsLaw.net",
-    "websites": [
-      "http://www.DianaAdamsLaw.net"
-    ],
-    "social_media": {
-      "Facebook": "https://www.facebook.com/william.s.singer",
-      "Twitter": "https://twitter.com/billyatzion",
-      "LinkedIn": null,
-      "YouTube": null,
-      "Instagram": null
+    {
+      "id": 14,
+      "name": "Yekaterina (Kate) Trambitskaya",
+      "law_firm": "Spence-Chapin Services to Families & Children",
+      "addresses": [
+        "410 East 92nd St., 3rd Fl."
+      ],
+      "cities": [
+        "New York"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "10128"
+      ],
+      "phone": "212-360-0258",
+      "email": "ktrambitskaya@spence-chapin.org",
+      "websites": [
+        "http://spence-chapin.org"
+      ],
+      "social_media": {
+        "Facebook": "https://www.facebook.com/spencechapin",
+        "Twitter": "https://twitter.com/spencechapinsvc",
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": "https://www.instagram.com/spencechapinsvc/"
+      },
+      "focuses": [
+        "Adoption"
+      ]
     },
-    "focuses": [
-      "ART"
-    ]
-  },
-  {
-    "id": 16,
-    "name": "Joseph R. Williams, Esq.",
-    "law_firm": "Copps DiPaola Silverman, PLLC",
-    "addresses": [
-      "1 Marcus Blvd., Suite 200"
-    ],
-    "cities": [
-      "Albany"
-    ],
-    "states": [
-      "NY"
-    ],
-    "zips": [
-      "12205"
-    ],
-    "phone": "518-436-4170",
-    "email": "jwilliams@theCDSLawFirm.com",
-    "websites": [
-      "http://www.theCDSLawFirm.com"
-    ],
-    "social_media": {
-      "Facebook": "https://www.facebook.com/CoppsDiPaolaSilverman/",
-      "Twitter": null,
-      "LinkedIn": null,
-      "YouTube": null,
-      "Instagram": null
+    {
+      "id": 15,
+      "name": "Bill Singer",
+      "law_firm": "Diana Adams Law and Mediation PLLC",
+      "addresses": [
+        "48 Wall Street, 11th Floor"
+      ],
+      "cities": [
+        "New York"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "10005"
+      ],
+      "phone": "347-994-9529",
+      "email": "Bill@DianaAdamsLaw.net",
+      "websites": [
+        "http://www.DianaAdamsLaw.net"
+      ],
+      "social_media": {
+        "Facebook": "https://www.facebook.com/william.s.singer",
+        "Twitter": "https://twitter.com/billyatzion",
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": [
+        "ART"
+      ]
     },
-    "focuses": [
-      "Adoption",
-      "ART"
-    ]
-  },
-  {
-    "id": 17,
-    "name": "Casey Copps DiPaola, Esq.",
-    "law_firm": "Copps DiPaola Silverman, PLLC",
-    "addresses": [
-      "1 Marcus Blvd., Suite 200"
-    ],
-    "cities": [
-      "Albany"
-    ],
-    "states": [
-      "NY"
-    ],
-    "zips": [
-      "12205"
-    ],
-    "phone": "518-436-4170",
-    "email": "kdipaola@theCDSLawFirm.com",
-    "websites": [
-      "http://www.theCDSLawFirm.com"
-    ],
-    "social_media": {
-      "Facebook": "https://www.facebook.com/CoppsDiPaolaSilverman/",
-      "Twitter": null,
-      "LinkedIn": null,
-      "YouTube": null,
-      "Instagram": null
+    {
+      "id": 18,
+      "name": "Anne Reynolds Copps, Esq.",
+      "law_firm": "Copps DiPaola Silverman, PLLC",
+      "addresses": [
+        "1 Marcus Blvd., Suite 200"
+      ],
+      "cities": [
+        "Albany"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "12205"
+      ],
+      "phone": "518-436-4170",
+      "email": "arcopps@theCDSLawFirm.com",
+      "websites": [
+        "http://www.theCDSLawFirm.com"
+      ],
+      "social_media": {
+        "Facebook": "https://www.facebook.com/CoppsDiPaolaSilverman/",
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": [
+        "Adoption",
+        "ART"
+      ]
     },
-    "focuses": [
-      "Adoption",
-      "ART"
-    ]
-  },
-  {
-    "id": 18,
-    "name": "Anne Reynolds Copps, Esq.",
-    "law_firm": "Copps DiPaola Silverman, PLLC",
-    "addresses": [
-      "1 Marcus Blvd., Suite 200"
-    ],
-    "cities": [
-      "Albany"
-    ],
-    "states": [
-      "NY"
-    ],
-    "zips": [
-      "12205"
-    ],
-    "phone": "518-436-4170",
-    "email": "arcopps@theCDSLawFirm.com",
-    "websites": [
-      "http://www.theCDSLawFirm.com"
-    ],
-    "social_media": {
-      "Facebook": "https://www.facebook.com/CoppsDiPaolaSilverman/",
-      "Twitter": null,
-      "LinkedIn": null,
-      "YouTube": null,
-      "Instagram": null
+    {
+      "id": 19,
+      "name": "Mary Walsh Snyder",
+      "law_firm": "Law Office of Mary Walsh Snyder",
+      "addresses": [
+        "PO Box 11118"
+      ],
+      "cities": [
+        "Albany"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "12211"
+      ],
+      "phone": "518-225-2776",
+      "email": "marywalshsnyder@gmail.com",
+      "websites": [],
+      "social_media": {
+        "Facebook": null,
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": [
+        "Adoption"
+      ]
     },
-    "focuses": [
-      "Adoption",
-      "ART"
-    ]
-  },
-  {
-    "id": 19,
-    "name": "Mary Walsh Snyder",
-    "law_firm": "Law Office of Mary Walsh Snyder",
-    "addresses": [
-      "PO Box 11118"
-    ],
-    "cities": [
-      "Albany"
-    ],
-    "states": [
-      "NY"
-    ],
-    "zips": [
-      "12211"
-    ],
-    "phone": "518-225-2776",
-    "email": "marywalshsnyder@gmail.com",
-    "websites": [],
-    "social_media": {
-      "Facebook": null,
-      "Twitter": null,
-      "LinkedIn": null,
-      "YouTube": null,
-      "Instagram": null
+    {
+      "id": 20,
+      "name": "Cynthia Perla Meckler",
+      "law_firm": "",
+      "addresses": [
+        "8081 Floss Lane"
+      ],
+      "cities": [
+        "East Amherst"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "14051"
+      ],
+      "phone": "518-741-4164",
+      "email": "cpmadopt@gmail.com",
+      "websites": [],
+      "social_media": {
+        "Facebook": null,
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": [
+        "Adoption"
+      ]
     },
-    "focuses": [
-      "Adoption"
-    ]
-  },
-  {
-    "id": 20,
-    "name": "Cynthia Perla Meckler",
-    "law_firm": "",
-    "addresses": [
-      "8081 Floss Lane"
-    ],
-    "cities": [
-      "East Amherst"
-    ],
-    "states": [
-      "NY"
-    ],
-    "zips": [
-      "14051"
-    ],
-    "phone": "518-741-4164",
-    "email": "cpmadopt@gmail.com",
-    "websites": [],
-    "social_media": {
-      "Facebook": null,
-      "Twitter": null,
-      "LinkedIn": null,
-      "YouTube": null,
-      "Instagram": null
+    {
+      "id": 21,
+      "name": "Elizabeth E. Swire Falker, Esq.",
+      "law_firm": "Elizabeth Swire Falker, Esq., PLLC",
+      "addresses": [
+        "60 East 42nd Street, 46th Flr"
+      ],
+      "cities": [
+        "New York"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "10165"
+      ],
+      "phone": "877-786-7552",
+      "email": "liz@StorkLawyer.com",
+      "websites": [
+        "http://www.StorkLawyer.com"
+      ],
+      "social_media": {
+        "Facebook": null,
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": [
+        "Adoption",
+        "ART"
+      ]
     },
-    "focuses": [
-      "Adoption"
-    ]
-  },
-  {
-    "id": 21,
-    "name": "Elizabeth E. Swire Falker, Esq.",
-    "law_firm": "Elizabeth Swire Falker, Esq., PLLC",
-    "addresses": [
-      "60 East 42nd Street, 46th Flr"
-    ],
-    "cities": [
-      "New York"
-    ],
-    "states": [
-      "NY"
-    ],
-    "zips": [
-      "10165"
-    ],
-    "phone": "877-786-7552",
-    "email": "liz@StorkLawyer.com",
-    "websites": [
-      "http://www.StorkLawyer.com"
-    ],
-    "social_media": {
-      "Facebook": null,
-      "Twitter": null,
-      "LinkedIn": null,
-      "YouTube": null,
-      "Instagram": null
+    {
+      "id": 23,
+      "name": "Steven L. Sarisohn, Esq.",
+      "law_firm": "Sarisohn Law Partners, LLP",
+      "addresses": [
+        "350 Veterans Memorial Highway"
+      ],
+      "cities": [
+        "Commack"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "11725"
+      ],
+      "phone": "631-543-7667",
+      "email": "ssarisohn@sarisohnlaw.com",
+      "websites": [
+        "http://www.sarisohnlaw.com/"
+      ],
+      "social_media": {
+        "Facebook": null,
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": [
+        "Adoption"
+      ]
     },
-    "focuses": [
-      "Adoption",
-      "ART"
-    ]
-  },
-  {
-    "id": 22,
-    "name": "Denise E. Seidelman, Esq.",
-    "law_firm": "Rumbold & Seidelman, LLP",
-    "addresses": [
-      "116 Kraft Avenue, Suite 3"
-    ],
-    "cities": [
-      "Bronxville"
-    ],
-    "states": [
-      "NY"
-    ],
-    "zips": [
-      "10708"
-    ],
-    "phone": "914-779-1050",
-    "email": "dseidelman@adoptionlawny.com",
-    "websites": [
-      "https://adoptionlawny.com/"
-    ],
-    "social_media": {
-      "Facebook": "https://www.facebook.com/RumboldandSeidelman/",
-      "Twitter": "https://twitter.com/adoptionlawnynj",
-      "LinkedIn": null,
-      "YouTube": null,
-      "Instagram": null
+    {
+      "id": 24,
+      "name": "Fred J. Magovern, Esq.",
+      "law_firm": "Magovern & Sclafani",
+      "addresses": [
+        "1539 Frankline Avenue"
+      ],
+      "cities": [
+        "Mineola"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "11501"
+      ],
+      "phone": "516-747-6800",
+      "email": "info@nyfamilylaw.expert",
+      "websites": [
+        "http://nyfamilylaw.expert"
+      ],
+      "social_media": {
+        "Facebook": null,
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": [
+        "Adoption"
+      ]
     },
-    "focuses": [
-      "Adoption",
-      "ART"
-    ]
-  },
-  {
-    "id": 23,
-    "name": "Steven L. Sarisohn, Esq.",
-    "law_firm": "Sarisohn Law Partners, LLP",
-    "addresses": [
-      "350 Veterans Memorial Highway"
-    ],
-    "cities": [
-      "Commack"
-    ],
-    "states": [
-      "NY"
-    ],
-    "zips": [
-      "11725"
-    ],
-    "phone": "631-543-7667",
-    "email": "ssarisohn@sarisohnlaw.com",
-    "websites": [
-      "http://www.sarisohnlaw.com/"
-    ],
-    "social_media": {
-      "Facebook": null,
-      "Twitter": null,
-      "LinkedIn": null,
-      "YouTube": null,
-      "Instagram": null
-    },
-    "focuses": [
-      "Adoption"
-    ]
-  },
-  {
-    "id": 24,
-    "name": "Fred J. Magovern, Esq.",
-    "law_firm": "Magovern & Sclafani",
-    "addresses": [
-      "1539 Frankline Avenue"
-    ],
-    "cities": [
-      "Mineola"
-    ],
-    "states": [
-      "NY"
-    ],
-    "zips": [
-      "11501"
-    ],
-    "phone": "516-747-6800",
-    "email": "info@nyfamilylaw.expert",
-    "websites": [
-      "http://nyfamilylaw.expert"
-    ],
-    "social_media": {
-      "Facebook": null,
-      "Twitter": null,
-      "LinkedIn": null,
-      "YouTube": null,
-      "Instagram": null
-    },
-    "focuses": [
-      "Adoption"
-    ]
-  },
-  {
-    "id": 25,
-    "name": "Brian K. Esser, Esq.",
-    "law_firm": "Law Office of Brian Esser, PLLC",
-    "addresses": [
-      "540 President Street, 3rd Flr"
-    ],
-    "cities": [
-      "Brooklyn"
-    ],
-    "states": [
-      "NY"
-    ],
-    "zips": [
-      "11215"
-    ],
-    "phone": "718-747-8447",
-    "email": "brian@esserlawoffice.com",
-    "websites": [
-      "http://www.esserlawoffice.com"
-    ],
-    "social_media": {
-      "Facebook": null,
-      "Twitter": "https://twitter.com/brianesseresq",
-      "LinkedIn": null,
-      "YouTube": null,
-      "Instagram": null
-    },
-    "focuses": [
-      "Adoption",
-      "ART"
-    ]
-  }
-]
+    {
+      "id": 25,
+      "name": "Brian K. Esser, Esq.",
+      "law_firm": "Law Office of Brian Esser, PLLC",
+      "addresses": [
+        "540 President Street, 3rd Flr"
+      ],
+      "cities": [
+        "Brooklyn"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "11215"
+      ],
+      "phone": "718-747-8447",
+      "email": "brian@esserlawoffice.com",
+      "websites": [
+        "http://www.esserlawoffice.com"
+      ],
+      "social_media": {
+        "Facebook": null,
+        "Twitter": "https://twitter.com/brianesseresq",
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": [
+        "Adoption",
+        "ART"
+      ]
+    }
+  ]
+}

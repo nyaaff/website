@@ -20,7 +20,7 @@
         determine whether to support, oppose or propose revisions to each piece of proposed legislation.</p>
     <p class="info">NYAAFF also drafts legislation to address issues our clients are experiencing as a result of
         problems with the current laws in the fields of adoption and assisted reproduction.</p>
-    <h2>Positions</h2>
+    <h2>Position Letters</h2>
     <div class="efforts-list">
         <% efforts.forEach(effort => { %>
             <div class="effort-list--item">
@@ -30,8 +30,8 @@
                 <span class="info">Bill Number: <%= effort.billno %></span>
                 <div class="file-list">
                     <% effort.files.forEach((file, index) => { %>
-                        <a target="_blank" href="/assets/position-pdfs/<%= file %>"
-                           class="file-list--item btn">PDF <%= index + 1 %></a>
+                        <a target="_blank" href="/assets/position-pdfs/<%= file.name %>"
+                           class="file-list--item btn"><%= file.date.toLocaleDateString() %></a>
                     <% }); %>
                 </div>
             </div>

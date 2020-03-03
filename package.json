@@ -8,7 +8,8 @@
   "keywords": [],
   "author": "Josh Brown",
   "dependencies": {
-    "ejs2static": "^2.0.2"
+    "ejs2static": "^2.0.3",
+    "moment": "^2.24.0"
   },
   "devDependencies": {
     "express": "^4.17.1",
