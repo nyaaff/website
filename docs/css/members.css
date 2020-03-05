@@ -30,11 +30,16 @@
     padding: 25px;
 }
 
-.member--image {
+.member--image-wrapper {
     flex-basis: 140px;
-    height: auto;
     margin-right: 70px;
     min-width: 140px;
+}
+
+.member--image {
+    height: auto;
+    width: auto;
+    max-width: 100%;
     border-radius: 0.25rem;
 }
 
@@ -54,6 +59,7 @@
     display: block;
     margin: 20px 0;
 }
+
 .block {
     display: block;
 }
@@ -69,11 +75,15 @@
         text-align: center;
     }
 
-    .member--image {
+
+    .member--image-wrapper {
         margin: 0;
-        width: auto;
         max-width: 140px;
         max-height: 100%;
+    }
+
+    .member--image {
+        width: auto;
     }
 
     .member--name {

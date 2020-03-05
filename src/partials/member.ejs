@@ -1,9 +1,11 @@
 <div class="member">
-    <% if(member.image) { %>
-        <img src="/assets/profile_pics/<%= member.image %>" class="member--image">
-    <% } else  { %>
-        <div class="member--image"></div>
-    <% } %>
+    <div class="member--image-wrapper">
+        <% if(member.image) { %>
+            <img src="/assets/profile_pics/<%= member.image %>" class="member--image">
+        <% } else  { %>
+            <div class="member--image"></div>
+        <% } %>
+    </div>
     <div class="member--info">
         <span class="member--name"><%= member.name %></span>
         <span><%= member.law_firm %></span>
@@ -19,10 +21,10 @@
         <span class="block"><%= member.phone %></span>
         <a class="block" href="mailto:<% member.email %>"><%= member.email %></a>
         <% member.websites.forEach(website => { %>
-            <a target="_blank"  class="block" href="<% website %>"><%= website %></a>
+            <a target="_blank" class="block" href="<% website %>"><%= website %></a>
         <% }); %>
         <div class="member--links">
-            <% Object.entries(member.social_media).forEach(([name, value]) => { if(!value) return %>
+            <% Object.entries(member.social_media).forEach(([name, value]) => { if (!value) return %>
             <a target="_blank" href="<%= value %>" class="btn"><%= name %></a>
             <% }) %>
         </div>
