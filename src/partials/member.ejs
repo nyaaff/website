@@ -19,20 +19,22 @@
             </div>
         <% } %>
         <span class="block"><%= member.phone %></span>
-        <a class="block" href="mailto:<% member.email %>"><%= member.email %></a>
+        <a class="block" href="mailto:<%= member.email %>"><%= member.email %></a>
         <% member.websites.forEach(website => { %>
-            <a target="_blank" class="block" href="<% website %>"><%= website %></a>
+            <a target="_blank" class="block" href="<%= website %>"><%= website %></a>
         <% }); %>
         <div class="member--links">
             <% Object.entries(member.social_media).forEach(([name, value]) => { if (!value) return %>
             <a target="_blank" href="<%= value %>" class="btn"><%= name %></a>
             <% }) %>
         </div>
-        <span class="practice-areas-title">Areas of Practice</span>
-        <ul>
-            <% member.focuses.forEach(focus => { %>
-                <li><%= focus %></li>
-            <% }); %>
-        </ul>
+        <% if(member.focuses.length > 0) { %>
+            <span class="practice-areas-title">Areas of Practice</span>
+            <ul>
+                <% member.focuses.forEach(focus => { %>
+                    <li><%= focus %></li>
+                <% }); %>
+            </ul>
+        <% } %>
     </div>
 </div>

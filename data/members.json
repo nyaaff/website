@@ -167,6 +167,26 @@
       ]
     },
     {
+      "id": 26,
+      "name": "Brendan O’Shea",
+      "law_firm": null,
+      "addresses": [],
+      "cities": [],
+      "states": [],
+      "zips": [],
+      "phone": null,
+      "email": null,
+      "websites": [],
+      "social_media": {
+        "Facebook": null,
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": []
+    },
+    {
       "id": 22,
       "name": "Denise E. Seidelman, Esq.",
       "law_firm": "Rumbold & Seidelman, LLP",
@@ -789,6 +809,166 @@
         "Adoption",
         "ART"
       ]
+    },
+    {
+      "id": 27,
+      "name": "Victoria Ferraraa",
+      "law_firm": null,
+      "addresses": [],
+      "cities": [],
+      "states": [],
+      "zips": [],
+      "phone": null,
+      "email": null,
+      "websites": [],
+      "social_media": {
+        "Facebook": null,
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": []
+    },
+    {
+      "id": 28,
+      "name": "Kevin Harrigan",
+      "law_firm": null,
+      "addresses": [],
+      "cities": [],
+      "states": [],
+      "zips": [],
+      "phone": null,
+      "email": null,
+      "websites": [],
+      "social_media": {
+        "Facebook": null,
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": []
+    },
+    {
+      "id": 29,
+      "name": "Diane Kunz",
+      "law_firm": null,
+      "addresses": [],
+      "cities": [],
+      "states": [],
+      "zips": [],
+      "phone": null,
+      "email": null,
+      "websites": [],
+      "social_media": {
+        "Facebook": null,
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": []
+    },
+    {
+      "id": 30,
+      "name": "Stephen Lewin",
+      "law_firm": null,
+      "addresses": [],
+      "cities": [],
+      "states": [],
+      "zips": [],
+      "phone": null,
+      "email": null,
+      "websites": [],
+      "social_media": {
+        "Facebook": null,
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": []
+    },
+    {
+      "id": 31,
+      "name": "Harry O’Rourke",
+      "law_firm": null,
+      "addresses": [],
+      "cities": [],
+      "states": [],
+      "zips": [],
+      "phone": null,
+      "email": null,
+      "websites": [],
+      "social_media": {
+        "Facebook": null,
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": []
+    },
+    {
+      "id": 32,
+      "name": "Ben Rosin",
+      "law_firm": null,
+      "addresses": [],
+      "cities": [],
+      "states": [],
+      "zips": [],
+      "phone": null,
+      "email": null,
+      "websites": [],
+      "social_media": {
+        "Facebook": null,
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": []
+    },
+    {
+      "id": 33,
+      "name": "Nina Rumbold",
+      "law_firm": null,
+      "addresses": [],
+      "cities": [],
+      "states": [],
+      "zips": [],
+      "phone": null,
+      "email": null,
+      "websites": [],
+      "social_media": {
+        "Facebook": null,
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": []
+    },
+    {
+      "id": 34,
+      "name": "Laurie Slavin",
+      "law_firm": null,
+      "addresses": [],
+      "cities": [],
+      "states": [],
+      "zips": [],
+      "phone": null,
+      "email": null,
+      "websites": [],
+      "social_media": {
+        "Facebook": null,
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": []
     }
   ]
 }

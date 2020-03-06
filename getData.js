@@ -28,6 +28,14 @@ module.exports = {
                 members[key] = members[key].sort(((a, b) => a.name.localeCompare(b.name)));
             });
 
+            const ids = [];
+            Object.values(members).flat(1).forEach(member => {
+               if(ids.includes(member.id)){
+                   throw 'Duplicate Key: ' + member.id;
+               }
+               ids.push(member.id)
+            });
+
             const pics = require('./data/profile-pic');
             Object.values(members).forEach(arr => arr.forEach(member => { // SELECT * FROM members INNER JOIN  "profile-pic" ON members.id = "profile-pic".id
                 if (pics[member.id]) {
