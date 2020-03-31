@@ -62,6 +62,7 @@
 
 .block {
     display: block;
+    word-break: break-word;
 }
 
 @media screen and (max-width: 900px) {

@@ -25,7 +25,14 @@ module.exports = {
         members: (() => {
             const members = require('./data/members');
             Object.keys(members).slice(1).forEach(key => {
-                members[key] = members[key].sort(((a, b) => a.name.localeCompare(b.name)));
+                members[key] = members[key].sort((a, b) => {
+                    const getSortName = (str) => {
+                      const split = str.replace(/, ?Esq\.( ?, ?LCSW)?/, '')
+                          .split(" ");
+                      return split.pop() + ", " + split.join(" ");
+                    };
+                    return getSortName(a.name).localeCompare(getSortName(b.name));
+                });
             });
 
             const ids = [];
@@ -48,4 +55,3 @@ module.exports = {
         })()
     }
 };
-console.log()

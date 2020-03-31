@@ -812,17 +812,27 @@
     },
     {
       "id": 27,
-      "name": "Victoria Ferrara, Esq.",
-      "law_firm": null,
-      "addresses": [],
-      "cities": [],
-      "states": [],
-      "zips": [],
-      "phone": null,
-      "email": null,
-      "websites": [],
+      "name": "Victoria T. Ferrara, Esq.",
+      "law_firm": "The Ferrara Law Group",
+      "addresses": [
+        "2150 Post Road, Suite 401"
+      ],
+      "cities": [
+        "Fairfield"
+      ],
+      "states": [
+        "CT"
+      ],
+      "zips": [
+        ""
+      ],
+      "phone": "203-255-9877",
+      "email": "info@worldwidesurrogacy.org",
+      "websites": [
+        "www.victoriaferrara.com"
+      ],
       "social_media": {
-        "Facebook": null,
+        "Facebook": "https://www.facebook.com/worldwidesurrogacy/",
         "Twitter": null,
         "LinkedIn": null,
         "YouTube": null,
@@ -932,14 +942,22 @@
     },
     {
       "id": 33,
-      "name": "Nina Rumbold, Esq.",
-      "law_firm": null,
-      "addresses": [],
-      "cities": [],
-      "states": [],
-      "zips": [],
-      "phone": null,
-      "email": null,
+      "name": "Nina E. Rumbold, Esq.",
+      "law_firm": "Rumbold & Seidelman, LLP",
+      "addresses": [
+        "24 Walker Drive"
+      ],
+      "cities": [
+        "Carmel"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "10512"
+      ],
+      "phone": "914-523-4567",
+      "email": "nina.rumbold@outlook.com",
       "websites": [],
       "social_media": {
         "Facebook": null,
@@ -948,19 +966,32 @@
         "YouTube": null,
         "Instagram": null
       },
-      "focuses": []
+      "focuses": [
+        "Adoption",
+        "ART"
+      ]
     },
     {
       "id": 34,
       "name": "Laurie Slavin, Esq.",
       "law_firm": null,
-      "addresses": [],
-      "cities": [],
-      "states": [],
-      "zips": [],
-      "phone": null,
-      "email": null,
-      "websites": [],
+      "addresses": [
+        "P.O. Box 2580"
+      ],
+      "cities": [
+        "Woodstock"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "12498"
+      ],
+      "phone": "305-775-8340",
+      "email": "hvadoptionservices@gmail.com",
+      "websites": [
+        "www.hudsonvalleyadoptionservices.org"
+      ],
       "social_media": {
         "Facebook": null,
         "Twitter": null,
@@ -968,7 +999,41 @@
         "YouTube": null,
         "Instagram": null
       },
-      "focuses": []
+      "focuses": [
+        "Adoption"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Douglas Haigh Reiniger, Esq.",
+      "law_firm": "The Reiniger Law Firm",
+      "addresses": [
+        "228 East 45th Street, Suite 900"
+      ],
+      "cities": [
+        "New York"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "10017"
+      ],
+      "phone": "520-432-0307",
+      "email": "reinigerlaw@wyoming.com",
+      "websites": [
+        "www.lawrsm.com"
+      ],
+      "social_media": {
+        "Facebook": null,
+        "Twitter": null,
+        "LinkedIn": null,
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": [
+        "Adoption"
+      ]
     }
   ]
 }
