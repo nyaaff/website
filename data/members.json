@@ -394,16 +394,20 @@
       "name": "Melissa B. Brisman, Esq.",
       "law_firm": "Melissa B. Brisman, Esq., LLC",
       "addresses": [
-        "1 Paragon Dr., Suite 158"
+        "1 Paragon Dr., Suite 158",
+        "31 Washington Square West"
       ],
       "cities": [
-        "Montvale"
+        "Montvale",
+        "New York"
       ],
       "states": [
-        "NJ"
+        "NJ",
+        "NY"
       ],
       "zips": [
-        "07645"
+        "07645",
+        "10011"
       ],
       "phone": "201-505-0099",
       "email": "info@reproductivelawyer.com",
