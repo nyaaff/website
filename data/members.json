@@ -169,14 +169,22 @@
     {
       "id": 26,
       "name": "Brendan O’Shea, Esq.",
-      "law_firm": null,
-      "addresses": [],
-      "cities": [],
-      "states": [],
-      "zips": [],
-      "phone": null,
-      "email": null,
-      "websites": [],
+      "law_firm": "Gleason Dunn Walsh & O’Shea",
+      "addresses": [
+        "40 Beaver Street"
+      ],
+      "cities": [
+        "Albany"
+      ],
+      "states": [
+        "New York"
+      ],
+      "zips": [
+        "12207"
+      ],
+      "phone": "(518) 432-7511",
+      "email": "boshea@gdwo.net",
+      "websites": ["https://gdwo.com/"],
       "social_media": {
         "Facebook": null,
         "Twitter": null,
@@ -184,7 +192,10 @@
         "YouTube": null,
         "Instagram": null
       },
-      "focuses": []
+      "focuses": [
+        "Adoption",
+        "ART"
+      ]
     },
     {
       "id": 22,
