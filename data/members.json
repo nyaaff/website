@@ -857,14 +857,22 @@
     },
     {
       "id": 28,
-      "name": "Kevin Harrigan, Esq.",
-      "law_firm": null,
-      "addresses": [],
-      "cities": [],
-      "states": [],
-      "zips": [],
-      "phone": null,
-      "email": null,
+      "name": "Kevin P. Harrigan, Esq.",
+      "law_firm": "Harrigan & Dolan",
+      "addresses": [
+        "205 S. Salina Street, Suite 403"
+      ],
+      "cities": [
+        "Syracuse"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "13202"
+      ],
+      "phone": "315-478-3138",
+      "email": "kharrigan@atriumlawyers.como",
       "websites": [],
       "social_media": {
         "Facebook": null,
@@ -873,7 +881,9 @@
         "YouTube": null,
         "Instagram": null
       },
-      "focuses": []
+      "focuses": [
+        "Adoption"
+      ]
     },
     {
       "id": 29,
@@ -917,23 +927,36 @@
     },
     {
       "id": 31,
-      "name": "Harry O’Rourke, Esq.",
-      "law_firm": null,
-      "addresses": [],
-      "cities": [],
-      "states": [],
-      "zips": [],
-      "phone": null,
-      "email": null,
-      "websites": [],
+      "name": "Harry O'Rourke, Esq.",
+      "law_firm": "O'Rourke Seaman, LLP",
+      "addresses": [
+        "6800 Jericho Turnpike, Suite 120W"
+      ],
+      "cities": [
+        "Syosset"
+      ],
+      "states": [
+        "NY"
+      ],
+      "zips": [
+        "11791"
+      ],
+      "phone": "516-822-2980",
+      "email": "harry.orourke@orourkeseaman.com",
+      "websites": [
+        "www.orourkeseaman.com"
+      ],
       "social_media": {
-        "Facebook": null,
+        "Facebook": "https://www.facebook.com/h.v.orourke",
         "Twitter": null,
         "LinkedIn": null,
         "YouTube": null,
         "Instagram": null
       },
-      "focuses": []
+      "focuses": [
+        "Adoption",
+        "ART"
+      ]
     },
     {
       "id": 32,
@@ -1048,6 +1071,39 @@
       },
       "focuses": [
         "Adoption"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Virginia L. Frank, Esq.",
+      "law_firm": "Virginia L. Frank, P.C.",
+      "addresses": [
+        "1434 Sprice Street, Suite 100"
+      ],
+      "cities": [
+        "Boulder"
+      ],
+      "states": [
+        "CO"
+      ],
+      "zips": [
+        "80302"
+      ],
+      "phone": "303-756-4673",
+      "email": "ginny@virginiafrank.com",
+      "websites": [
+        "www.virginiafrank.com"
+      ],
+      "social_media": {
+        "Facebook": "https://www.facebook.com/virginia.l.frank",
+        "Twitter": null,
+        "LinkedIn": "https://www.linkedin.com/in/virginia-frank-28065b40",
+        "YouTube": null,
+        "Instagram": null
+      },
+      "focuses": [
+        "Adoption",
+        "ART"
       ]
     }
   ]
