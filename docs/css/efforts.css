@@ -33,3 +33,7 @@
     display: block;
     margin-top: 10px;
 }
+
+.vimeo-player {
+    max-width: 100%;
+}

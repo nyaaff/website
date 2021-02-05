@@ -34,6 +34,9 @@
                            class="file-list--item btn"><%= file.date.toLocaleDateString() %></a>
                     <% }); %>
                 </div>
+                <% if(effort.partial) { %>
+                    <%- include(`partials/${effort.partial}`) %>
+                <% } %>
             </div>
         <% }) %>
     </div>
