@@ -6,6 +6,7 @@
     "position": "N/A",
     "status": "N/A",
     "files": [],
+    "hideInfo": true,
     "partial": "position/child-parent-security-act.ejs"
   },
   {

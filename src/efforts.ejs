@@ -25,15 +25,17 @@
         <% efforts.forEach(effort => { %>
             <div class="effort-list--item">
                 <h3 class="title"><%= effort.title %></h3>
-                <span class="info">Position: <%= effort.position %></span>
-                <span class="info">Status: <%= effort.status %></span>
-                <span class="info">Bill Number: <%= effort.billno %></span>
-                <div class="file-list">
-                    <% effort.files.forEach((file, index) => { %>
-                        <a target="_blank" href="/assets/position-pdfs/<%= file.name %>"
-                           class="file-list--item btn"><%= file.date.toLocaleDateString() %></a>
-                    <% }); %>
-                </div>
+                <% if(!effort.hideInfo) { %>
+                    <span class="info">Position: <%= effort.position %></span>
+                    <span class="info">Status: <%= effort.status %></span>
+                    <span class="info">Bill Number: <%= effort.billno %></span>
+                    <div class="file-list">
+                        <% effort.files.forEach((file, index) => { %>
+                            <a target="_blank" href="/assets/position-pdfs/<%= file.name %>"
+                               class="file-list--item btn"><%= file.date.toLocaleDateString() %></a>
+                        <% }); %>
+                    </div>
+                <% } %>
                 <% if(effort.partial) { %>
                     <%- include(`partials/${effort.partial}`) %>
                 <% } %>

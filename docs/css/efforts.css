@@ -26,6 +26,11 @@
 .effort-list--item .info {
     font-size: 20px;
 }
+
+.effort--description {
+    font-size: 17px;
+}
+
 .effort-list--item span {
     display: block;
 }
