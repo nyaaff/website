@@ -1,10 +1,30 @@
 [
   {
+    "title": "Office of Court Administration Proposed Legislation Regarding Notice and Consent Rights of Unwed Birth Fathers in Adoptions (2/24/21)",
+    "date": "2/24/21",
+    "billno": "Not Applicable",
+    "position": "Oppose",
+    "status": "Pending",
+    "files": [
+      "2021.02.24-Birth-Father-Notice.pdf"
+    ]
+  },
+  {
+    "title": "Issuance of Birth Certificates for Children Born by New York Surrogates to Out-of-State Parents (9/23/20)",
+    "date": "9/23/20",
+    "billno": "Not Applicable",
+    "position": "Not Applicable",
+    "status": "Not Applicable",
+    "files": [
+      "2020.09.23-Letter-to-DOH.pdf"
+    ]
+  },
+  {
     "title": "Child Parent Security Act (effective 2/15/2021)",
     "date": "2/15/2021",
-    "billno": "N/A",
-    "position": "N/A",
-    "status": "N/A",
+    "billno": "Not Applicable",
+    "position": "Not Applicable",
+    "status": "Not Applicable",
     "files": [],
     "hideInfo": true,
     "partial": "position/child-parent-security-act.ejs"
@@ -12,7 +32,7 @@
   {
     "title": "Office of Court Administration Proposed Legislation Regarding Notice and Consent Rights of Unwed Birth Fathers in Adoptions (3/2/20, 7/3/19)",
     "date": "3/2/20",
-    "billno": "N/A",
+    "billno": "Not Applicable",
     "position": "Oppose",
     "status": "Not Enacted",
     "files": [
