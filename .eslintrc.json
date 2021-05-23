@@ -1,0 +1,22 @@
+{
+    "env": {
+        "browser": true
+    },
+    "extends": ["eslint:recommended", "airbnb-base", "prettier"],
+    "rules": {
+        "prefer-destructuring": [
+            "error",
+            {
+                "array": false,
+                "object": true
+            }
+        ],
+        "import/no-extraneous-dependencies": [
+            "error",
+            { "devDependencies": true }
+        ],
+        "no-console": "off",
+        "no-param-reassign": "warn"
+    },
+    "ignorePatterns": ["docs/**"]
+}

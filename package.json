@@ -1,17 +1,24 @@
 {
-  "name": "nyaaff.com",
-  "version": "1.0.0",
-  "description": "A website for NYAAFF",
-  "scripts": {
-    "build": "node ./buildScript.js && cp -R src/public docs"
-  },
-  "keywords": [],
-  "author": "Josh Brown",
-  "dependencies": {},
-  "devDependencies": {
-    "ejs": "^3.1.6",
-    "express": "^4.17.1",
-    "fs-extra": "latest",
-    "moment": "^2.29.1"
-  }
+    "name": "nyaaff.com",
+    "version": "1.0.0",
+    "description": "A website for NYAAFF",
+    "scripts": {
+        "build": "node ./buildScript.js && cp -R src/public docs",
+        "lint": "eslint . && prettier --check .",
+        "fix": "eslint --fix . && prettier --write --check ."
+    },
+    "keywords": [],
+    "author": "Josh Brown",
+    "dependencies": {},
+    "devDependencies": {
+        "ejs": "^3.1.6",
+        "eslint": "^7.27.0",
+        "eslint-config-airbnb-base": "^14.2.1",
+        "eslint-config-prettier": "^8.3.0",
+        "eslint-plugin-import": "^2.23.3",
+        "express": "^4.17.1",
+        "fs-extra": "latest",
+        "moment": "^2.29.1",
+        "prettier": "^2.3.0"
+    }
 }

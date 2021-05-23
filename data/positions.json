@@ -1,176 +1,150 @@
 [
-  {
-    "title": "New York Update: Child Parent Security Act (2/17/21)",
-    "date": "2/17/21",
-    "billno": "Not Applicable",
-    "position": "Not Applicable",
-    "status": "Not Applicable",
-    "files": [
-      "2021.02.17-CPSA-Announcemet.pdf"
-    ]
-  },
-  {
-    "title": "NYAAFF Proudly Celebrates the Passage of the Child Parent Security Act (2/12/21)",
-    "date": "2/12/21",
-    "billno": "Not Applicable",
-    "position": "Not Applicable",
-    "status": "Not Applicable",
-    "files": [
-      "2021.02.12-NYAAFF-CPSA-Press-Release-Final.pdf"
-    ]
-  },
-  {
-    "title": "Office of Court Administration Proposed Legislation Regarding Notice and Consent Rights of Unwed Birth Fathers in Adoptions (2/24/21, 3/2/20, 6/3/19)",
-    "date": "2/24/21",
-    "billno": "Not Applicable",
-    "position": "Oppose",
-    "status": "Pending",
-    "files": [
-      "2021.02.24-Birth-Father-Notice.pdf",
-      "2020.03.02-DRL-111.pdf",
-      "2019.06.03-Birth-Father-Notice.pdf"
-    ]
-  },
-  {
-    "title": "Issuance of Birth Certificates for Children Born by New York Surrogates to Out-of-State Parents (9/23/20)",
-    "date": "9/23/20",
-    "billno": "Not Applicable",
-    "position": "Not Applicable",
-    "status": "Not Applicable",
-    "files": [
-      "2020.09.23-Letter-to-DOH.pdf"
-    ]
-  },
-  {
-    "title": "Child Parent Security Act (effective 2/15/2021)",
-    "date": "2/15/2021",
-    "billno": "Not Applicable",
-    "position": "Not Applicable",
-    "status": "Not Applicable",
-    "files": [],
-    "hideInfo": true,
-    "partial": "position/child-parent-security-act.ejs"
-  },
-  {
-    "title": "Preserving Family Bonds Act (12/11/19, 10/21/19, 7/9/19)",
-    "date": "12/11/19",
-    "billno": "A02199A/S04203A",
-    "position": "Oppose",
-    "status": "Pending (2019 – passed Senate and Assembly, vetoed by Governor)",
-    "files": [
-      "2019.12.11-Preserving-Family-Bonds.pdf"
-    ]
-  },
-  {
-    "title": "Child Parent Security Act (11/20/19, June 5, 2017)",
-    "date": "11/20/19",
-    "billno": "A01071C/S02071B",
-    "position": "Support",
-    "status": "Pending (2019 – passed Senate, no vote in Assembly)",
-    "files": [
-      "2017.06.05-Child-Parent-Security-Act.pdf",
-      "2019.11.20-CPSA-Egg-Donation.pdf"
-    ]
-  },
-  {
-    "title": "Adoptees Access to Original Birth Certificates (10/21/19, 6/7/16)",
-    "date": "10/21/19",
-    "billno": "A05494/S03419",
-    "position": "Support",
-    "status": "Enacted",
-    "files": [
-      "2019.10.21-Open-Birth-Records.pdf",
-      "2016.06.07-Open-Birth-Records.pdf"
-    ]
-  },
-  {
-    "title": "Conforms Social Services Law to Expanded Definition of “Relative” for Foster Care & Kinship Guardianship (10/21/19)",
-    "date": "10/21/19",
-    "billno": "A00569/S02714",
-    "position": "Support",
-    "status": "Enacted",
-    "files": [
-      "2019.10.21-kinGAP-2.pdf"
-    ]
-  },
-  {
-    "title": "Conforms Family Court Act to Expanded Definition of “Relative” for Foster Care & Kinship Guardianship (10/21/19)",
-    "date": "10/21/19",
-    "billno": "A-01071C/S02071-B, A08059/S06405",
-    "position": "Support",
-    "status": "Enacted",
-    "files": [
-      "2019.10.21-kinGAP-1.pdf"
-    ]
-  },
-  {
-    "title": "Confirms Availability of Step-Parent Adoptions for Married Same Sex Couples (10/10/19)",
-    "date": "10/10/19",
-    "billno": "A00460/S03999",
-    "position": "Support",
-    "status": "Enacted",
-    "files": [
-      "2019.09.10-Stepparent-Adoptions.pdf"
-    ]
-  },
-  {
-    "title": "Reuniting Families Act (8/1/19)",
-    "date": "8/1/19",
-    "billno": "A02106A/S05024A",
-    "position": "Support",
-    "status": "Enacted",
-    "files": [
-      "2019.08.01-Reuniting-Families-Act.pdf"
-    ]
-  },
-  {
-    "title": "Surrogacy Bill With Delayed Parentage (2/19/20)",
-    "date": "2/19/20",
-    "billno": "S07717",
-    "position": "Oppose",
-    "status": "Pending",
-    "files": [
-      "2020.02.19-Krueger-Surrogacy-Bill.pdf"
-    ]
-  },
-  {
-    "title": "Executive Order for Adoption Home Studies During COVID-19 (3/30/20)",
-    "date": "4/2/20",
-    "billno": "Not Applicable",
-    "position": "Support",
-    "status": "Pending",
-    "files": [
-      "2020.04.02-COVID-Letter.pdf"
-    ]
-  },
-  {
-    "title": "Virtual Finalizations of Adoption Proceedings (5/11/20)",
-    "date": "5/11/20",
-    "billno": "Not Applicable",
-    "position": "Not Applicable",
-    "status": "Not Applicable",
-    "files": [
-      "2020.05.11-Remote-Adoption-Finalizations.pdf"
-    ]
-  },
-  {
-    "title": "Virtual Finalizations - Response from Deputy Chief Administrative Judge of Unified Court System.",
-    "date": "5/11/20",
-    "billno": "Not Applicable",
-    "position": "Not Applicable",
-    "status": "Not Applicable",
-    "files": [
-      "2020.06.08-Response-Ltr-to-NYAFF.pdf"
-    ]
-  },
-  {
-    "title": "KinGAP-Payments-After-Adoption (5/18/20)",
-    "date": "5/18/20",
-    "billno": "A9840",
-    "position": "Support",
-    "status": "Pending",
-    "files": [
-      "2020.05.18-KinGAP-Payments-After-Adoption.pdf"
-    ]
-  }
+    {
+        "title": "New York Update: Child Parent Security Act (2/17/21)",
+        "date": "2/17/21",
+        "billno": "Not Applicable",
+        "position": "Not Applicable",
+        "status": "Not Applicable",
+        "files": ["2021.02.17-CPSA-Announcemet.pdf"]
+    },
+    {
+        "title": "NYAAFF Proudly Celebrates the Passage of the Child Parent Security Act (2/12/21)",
+        "date": "2/12/21",
+        "billno": "Not Applicable",
+        "position": "Not Applicable",
+        "status": "Not Applicable",
+        "files": ["2021.02.12-NYAAFF-CPSA-Press-Release-Final.pdf"]
+    },
+    {
+        "title": "Office of Court Administration Proposed Legislation Regarding Notice and Consent Rights of Unwed Birth Fathers in Adoptions (2/24/21, 3/2/20, 6/3/19)",
+        "date": "2/24/21",
+        "billno": "Not Applicable",
+        "position": "Oppose",
+        "status": "Pending",
+        "files": [
+            "2021.02.24-Birth-Father-Notice.pdf",
+            "2020.03.02-DRL-111.pdf",
+            "2019.06.03-Birth-Father-Notice.pdf"
+        ]
+    },
+    {
+        "title": "Issuance of Birth Certificates for Children Born by New York Surrogates to Out-of-State Parents (9/23/20)",
+        "date": "9/23/20",
+        "billno": "Not Applicable",
+        "position": "Not Applicable",
+        "status": "Not Applicable",
+        "files": ["2020.09.23-Letter-to-DOH.pdf"]
+    },
+    {
+        "title": "Child Parent Security Act (effective 2/15/2021)",
+        "date": "2/15/2021",
+        "billno": "Not Applicable",
+        "position": "Not Applicable",
+        "status": "Not Applicable",
+        "files": [],
+        "hideInfo": true,
+        "partial": "position/child-parent-security-act.ejs"
+    },
+    {
+        "title": "Preserving Family Bonds Act (12/11/19, 10/21/19, 7/9/19)",
+        "date": "12/11/19",
+        "billno": "A02199A/S04203A",
+        "position": "Oppose",
+        "status": "Pending (2019 – passed Senate and Assembly, vetoed by Governor)",
+        "files": ["2019.12.11-Preserving-Family-Bonds.pdf"]
+    },
+    {
+        "title": "Child Parent Security Act (11/20/19, June 5, 2017)",
+        "date": "11/20/19",
+        "billno": "A01071C/S02071B",
+        "position": "Support",
+        "status": "Pending (2019 – passed Senate, no vote in Assembly)",
+        "files": [
+            "2017.06.05-Child-Parent-Security-Act.pdf",
+            "2019.11.20-CPSA-Egg-Donation.pdf"
+        ]
+    },
+    {
+        "title": "Adoptees Access to Original Birth Certificates (10/21/19, 6/7/16)",
+        "date": "10/21/19",
+        "billno": "A05494/S03419",
+        "position": "Support",
+        "status": "Enacted",
+        "files": [
+            "2019.10.21-Open-Birth-Records.pdf",
+            "2016.06.07-Open-Birth-Records.pdf"
+        ]
+    },
+    {
+        "title": "Conforms Social Services Law to Expanded Definition of “Relative” for Foster Care & Kinship Guardianship (10/21/19)",
+        "date": "10/21/19",
+        "billno": "A00569/S02714",
+        "position": "Support",
+        "status": "Enacted",
+        "files": ["2019.10.21-kinGAP-2.pdf"]
+    },
+    {
+        "title": "Conforms Family Court Act to Expanded Definition of “Relative” for Foster Care & Kinship Guardianship (10/21/19)",
+        "date": "10/21/19",
+        "billno": "A-01071C/S02071-B, A08059/S06405",
+        "position": "Support",
+        "status": "Enacted",
+        "files": ["2019.10.21-kinGAP-1.pdf"]
+    },
+    {
+        "title": "Confirms Availability of Step-Parent Adoptions for Married Same Sex Couples (10/10/19)",
+        "date": "10/10/19",
+        "billno": "A00460/S03999",
+        "position": "Support",
+        "status": "Enacted",
+        "files": ["2019.09.10-Stepparent-Adoptions.pdf"]
+    },
+    {
+        "title": "Reuniting Families Act (8/1/19)",
+        "date": "8/1/19",
+        "billno": "A02106A/S05024A",
+        "position": "Support",
+        "status": "Enacted",
+        "files": ["2019.08.01-Reuniting-Families-Act.pdf"]
+    },
+    {
+        "title": "Surrogacy Bill With Delayed Parentage (2/19/20)",
+        "date": "2/19/20",
+        "billno": "S07717",
+        "position": "Oppose",
+        "status": "Pending",
+        "files": ["2020.02.19-Krueger-Surrogacy-Bill.pdf"]
+    },
+    {
+        "title": "Executive Order for Adoption Home Studies During COVID-19 (3/30/20)",
+        "date": "4/2/20",
+        "billno": "Not Applicable",
+        "position": "Support",
+        "status": "Pending",
+        "files": ["2020.04.02-COVID-Letter.pdf"]
+    },
+    {
+        "title": "Virtual Finalizations of Adoption Proceedings (5/11/20)",
+        "date": "5/11/20",
+        "billno": "Not Applicable",
+        "position": "Not Applicable",
+        "status": "Not Applicable",
+        "files": ["2020.05.11-Remote-Adoption-Finalizations.pdf"]
+    },
+    {
+        "title": "Virtual Finalizations - Response from Deputy Chief Administrative Judge of Unified Court System.",
+        "date": "5/11/20",
+        "billno": "Not Applicable",
+        "position": "Not Applicable",
+        "status": "Not Applicable",
+        "files": ["2020.06.08-Response-Ltr-to-NYAFF.pdf"]
+    },
+    {
+        "title": "KinGAP-Payments-After-Adoption (5/18/20)",
+        "date": "5/18/20",
+        "billno": "A9840",
+        "position": "Support",
+        "status": "Pending",
+        "files": ["2020.05.18-KinGAP-Payments-After-Adoption.pdf"]
+    }
 ]

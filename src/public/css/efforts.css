@@ -1,5 +1,5 @@
 .top-image {
-   background-image: url("/public/assets/images/courthouse.jpg");
+    background-image: url('/public/assets/images/courthouse.jpg');
 }
 
 /*.main-nav--item.active, .main-nav--item:hover {
@@ -9,7 +9,7 @@
 .efforts-list {
     margin: 30px 100px;
 }
-@media screen and (max-width: 600px){
+@media screen and (max-width: 600px) {
     .efforts-list {
         margin: 30px 0;
     }
