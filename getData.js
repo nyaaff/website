@@ -1,7 +1,7 @@
 const moment = require('moment');
 
 module.exports = {
-    './efforts.ejs': {
+    'efforts.ejs': {
         efforts: require('./data/positions')
             .map(effort => {
                 effort.date = moment(effort.date, 'MM-DD-YYYY').toDate();
@@ -21,7 +21,7 @@ module.exports = {
                 return b.date - a.date;
             })
     },
-    './members.ejs': {
+    'members.ejs': {
         members: (() => {
             const members = require('./data/members');
             Object.keys(members).slice(1).forEach(key => {

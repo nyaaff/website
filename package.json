@@ -3,16 +3,15 @@
   "version": "1.0.0",
   "description": "A website for NYAAFF",
   "scripts": {
-    "build": "node ./buildScript.js"
+    "build": "node ./buildScript.js && cp -R src/public docs"
   },
   "keywords": [],
   "author": "Josh Brown",
-  "dependencies": {
-    "ejs2static": "^2.0.3",
-    "moment": "^2.24.0"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "ejs": "^3.1.6",
     "express": "^4.17.1",
-    "fs-extra": "latest"
+    "fs-extra": "latest",
+    "moment": "^2.29.1"
   }
 }
