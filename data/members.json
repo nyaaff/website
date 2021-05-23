@@ -3,6 +3,7 @@
     {
       "id": 17,
       "name": "Casey Copps DiPaola, Esq. - President",
+      "image": "Casey-Copps-DiPaola.jpg",
       "law_firm": "Copps DiPaola Silverman, PLLC",
       "addresses": [
         "1 Marcus Blvd., Suite 200"
@@ -22,11 +23,7 @@
         "http://www.theCDSLawFirm.com"
       ],
       "social_media": {
-        "Facebook": "https://www.facebook.com/CoppsDiPaolaSilverman/",
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
+        "Facebook": "https://www.facebook.com/CoppsDiPaolaSilverman/"
       },
       "focuses": [
         "Adoption",
@@ -36,6 +33,7 @@
     {
       "id": 3,
       "name": "Rebecca L. Mendel, Esq. - Vice President",
+      "image": "Rebecca-Mendel.jpg",
       "law_firm": "Rosin Steinhagen Mendel, PLLC",
       "addresses": [
         "228 East 45th Street, Suite 900"
@@ -55,11 +53,7 @@
         "http://www.lawrsm.com"
       ],
       "social_media": {
-        "Facebook": "https://www.facebook.com/nycfamilylaw/",
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
+        "Facebook": "https://www.facebook.com/nycfamilylaw/"
       },
       "focuses": [
         "Adoption",
@@ -69,6 +63,7 @@
     {
       "id": 16,
       "name": "Joseph R. Williams, Esq. - Treasurer",
+      "image": "Joseph-Williams.jpg",
       "law_firm": "Copps DiPaola Silverman, PLLC",
       "addresses": [
         "1 Marcus Blvd., Suite 200"
@@ -88,11 +83,7 @@
         "http://www.theCDSLawFirm.com"
       ],
       "social_media": {
-        "Facebook": "https://www.facebook.com/CoppsDiPaolaSilverman/",
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
+        "Facebook": "https://www.facebook.com/CoppsDiPaolaSilverman/"
       },
       "focuses": [
         "Adoption",
@@ -102,6 +93,7 @@
     {
       "id": 13,
       "name": "Laurie B. Goldheim, Esq. - Secretary",
+      "image": "Laurie-Goldheim.JPG",
       "law_firm": "Law Office of Laurie B. Goldheim",
       "addresses": [
         "P.O. Box 142"
@@ -123,9 +115,7 @@
       "social_media": {
         "Facebook": "https://www.facebook.com/LawOfficesofLaurieBGoldheim/",
         "Twitter": "https://twitter.com/LGoldheim",
-        "LinkedIn": "https://www.linkedin.com/in/laurie-goldheim-170a585/",
-        "YouTube": null,
-        "Instagram": null
+        "LinkedIn": "https://www.linkedin.com/in/laurie-goldheim-170a585/"
       },
       "focuses": [
         "Adoption",
@@ -137,6 +127,7 @@
     {
       "id": 8,
       "name": "Amelia Demma, Esq.",
+      "image": "Amy-Demma.jpg",
       "law_firm": "Law Offices of Amy Demma",
       "addresses": [
         "81 Newtown Lane., No. 355"
@@ -158,9 +149,7 @@
       "social_media": {
         "Facebook": "http://www.facebook.com/amy.demma.law",
         "Twitter": "http://twitter.com/amydemma",
-        "LinkedIn": "http://www.linkedin.com/in/amydemma",
-        "YouTube": null,
-        "Instagram": null
+        "LinkedIn": "http://www.linkedin.com/in/amydemma"
       },
       "focuses": [
         "ART"
@@ -169,6 +158,7 @@
     {
       "id": 26,
       "name": "Brendan O’Shea, Esq.",
+      "image": "Brendan-OShea.jpg",
       "law_firm": "Gleason Dunn Walsh & O’Shea",
       "addresses": [
         "40 Beaver Street"
@@ -184,13 +174,10 @@
       ],
       "phone": "(518) 432-7511",
       "email": "boshea@gdwo.net",
-      "websites": ["https://gdwo.com/"],
+      "websites": [
+        "https://gdwo.com/"
+      ],
       "social_media": {
-        "Facebook": null,
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
       },
       "focuses": [
         "Adoption",
@@ -200,6 +187,7 @@
     {
       "id": 22,
       "name": "Denise E. Seidelman, Esq.",
+      "image": "Denise-Seidelman.jpg",
       "law_firm": "Rumbold & Seidelman, LLP",
       "addresses": [
         "116 Kraft Avenue, Suite 3"
@@ -220,10 +208,7 @@
       ],
       "social_media": {
         "Facebook": "https://www.facebook.com/RumboldandSeidelman/",
-        "Twitter": "https://twitter.com/adoptionlawnynj",
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
+        "Twitter": "https://twitter.com/adoptionlawnynj"
       },
       "focuses": [
         "Adoption",
@@ -232,6 +217,7 @@
     },
     {
       "id": 2,
+      "image": "Greg-Franklin.jpg",
       "name": "Gregory A. Franklin, Esq.",
       "law_firm": "Ashcraft Franklin & Young, LLP",
       "addresses": [
@@ -252,11 +238,6 @@
         "http://www.AdoptionNY.com"
       ],
       "social_media": {
-        "Facebook": null,
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
       },
       "focuses": [
         "Adoption",
@@ -265,6 +246,7 @@
     },
     {
       "id": 9,
+      "image": "Jeanine-Castagna.jpg",
       "name": "Jeanine Castagna, Esq.",
       "law_firm": "",
       "addresses": [
@@ -285,11 +267,6 @@
         "http://www.jcadoptionlaw.com"
       ],
       "social_media": {
-        "Facebook": null,
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
       },
       "focuses": [
         "Adoption"
@@ -300,6 +277,7 @@
     {
       "id": 1,
       "name": "Suzanne B. Nichols, Esq.",
+      "image": "Suzanne-Nichols.jpg",
       "law_firm": "Rosenstock Lowe & Nichols",
       "addresses": [
         "800 Westchester Ave. #641N"
@@ -319,11 +297,6 @@
         "http://www.rlnlaw.com"
       ],
       "social_media": {
-        "Facebook": null,
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
       },
       "focuses": [
         "Adoption",
@@ -333,6 +306,7 @@
     {
       "id": 4,
       "name": "Debbie Wolf, Esq.",
+      "image": "Debbie-Wolf.jpg",
       "law_firm": "Forever Families Through Adoption, Inc.",
       "addresses": [
         ""
@@ -353,11 +327,6 @@
         "https://adoptionart.org"
       ],
       "social_media": {
-        "Facebook": null,
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
       },
       "focuses": [
         "Adoption"
@@ -366,6 +335,7 @@
     {
       "id": 5,
       "name": "Robin A. Fleischner, Esq.",
+      "image": "Robin-Fleishner.jpg",
       "law_firm": "Robin A. Fleischner, Attorney at Law",
       "addresses": [
         "11 Riverside Drive, Suite 14MW",
@@ -391,7 +361,6 @@
       "social_media": {
         "Facebook": "1. https://www.facebook.com/Adoption-and-Surrogacy-Attorney-Robin-Fleischner-1422519214632900/",
         "Twitter": "https://twitter.com/robinfleischner?lang=en",
-        "LinkedIn": null,
         "YouTube": "https://www.youtube.com/channel/UCcwaOo_lawKXaYIluVU0Q_Q",
         "Instagram": "https://www.instagram.com/adoptsurrogatelaw/"
       },
@@ -403,6 +372,7 @@
     {
       "id": 6,
       "name": "Melissa B. Brisman, Esq.",
+      "image": "Melissa-Brisman.jpg",
       "law_firm": "Melissa B. Brisman, Esq., LLC",
       "addresses": [
         "1 Paragon Dr., Suite 158",
@@ -428,9 +398,7 @@
       "social_media": {
         "Facebook": "https://www.facebook.com/MelissaBBrismanEsq/",
         "Twitter": "https://twitter.com/melissabrisman",
-        "LinkedIn": "https://www.linkedin.com/in/melissa-brisman-84a7736?authType=name&authToken=VAWz&trk=hp-feed-member-nam",
-        "YouTube": null,
-        "Instagram": null
+        "LinkedIn": "https://www.linkedin.com/in/melissa-brisman-84a7736?authType=name&authToken=VAWz&trk=hp-feed-member-nam"
       },
       "focuses": [
         "Adoption",
@@ -440,6 +408,7 @@
     {
       "id": 7,
       "name": "Nancy M. Hartzband, Esq.",
+      "image": "Nancy-Hartzband.png",
       "law_firm": "Reproductive Possibilities, LLC",
       "addresses": [
         "One Paragon Drive, Suite 160"
@@ -459,11 +428,6 @@
         "https://ReproductivePossibilities.com"
       ],
       "social_media": {
-        "Facebook": null,
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
       },
       "focuses": [
         "ART"
@@ -472,6 +436,7 @@
     {
       "id": 10,
       "name": "Michael S. Goldstein, Esq., LCSW",
+      "image": "Michael-Goldstein.jpg",
       "law_firm": "",
       "addresses": [
         "62 Bowman Ave."
@@ -491,11 +456,7 @@
         "http://www.AdoptGold.com"
       ],
       "social_media": {
-        "Facebook": "https://www.facebook.com/pages/Michael-S-Goldstein-ESQ-LCSW-Adoption-Family-Law/222486144462279",
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
+        "Facebook": "https://www.facebook.com/pages/Michael-S-Goldstein-ESQ-LCSW-Adoption-Family-Law/222486144462279"
       },
       "focuses": [
         "Adoption"
@@ -504,6 +465,7 @@
     {
       "id": 11,
       "name": "Anthony M. Brown, Esq.",
+      "image": "Anthony-Brown.jpg",
       "law_firm": "Time for Families Law, PLLC",
       "addresses": [
         "122 E. 42nd St., Ste 3900",
@@ -527,11 +489,7 @@
         "http://www.timeforfamilies.com"
       ],
       "social_media": {
-        "Facebook": null,
-        "Twitter": "https://twitter.com/AnthonyMBrown",
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
+        "Twitter": "https://twitter.com/AnthonyMBrown"
       },
       "focuses": [
         "Adoption",
@@ -541,6 +499,7 @@
     {
       "id": 14,
       "name": "Yekaterina (Kate) Trambitskaya, Esq.",
+      "image": "Kate-Trambitskaya.jpg",
       "law_firm": "Spence-Chapin Services to Families & Children",
       "addresses": [
         "410 East 92nd St., 3rd Fl."
@@ -562,8 +521,6 @@
       "social_media": {
         "Facebook": "https://www.facebook.com/spencechapin",
         "Twitter": "https://twitter.com/spencechapinsvc",
-        "LinkedIn": null,
-        "YouTube": null,
         "Instagram": "https://www.instagram.com/spencechapinsvc/"
       },
       "focuses": [
@@ -573,6 +530,7 @@
     {
       "id": 15,
       "name": "Bill Singer, Esq.",
+      "image": "Bill-Singer.jpg",
       "law_firm": "Diana Adams Law and Mediation PLLC",
       "addresses": [
         "48 Wall Street, 11th Floor"
@@ -593,10 +551,7 @@
       ],
       "social_media": {
         "Facebook": "https://www.facebook.com/william.s.singer",
-        "Twitter": "https://twitter.com/billyatzion",
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
+        "Twitter": "https://twitter.com/billyatzion"
       },
       "focuses": [
         "ART"
@@ -605,6 +560,7 @@
     {
       "id": 18,
       "name": "Anne Reynolds Copps, Esq.",
+      "image": "Anne-Reynolds-Copps.jpg",
       "law_firm": "Copps DiPaola Silverman, PLLC",
       "addresses": [
         "1 Marcus Blvd., Suite 200"
@@ -624,11 +580,7 @@
         "http://www.theCDSLawFirm.com"
       ],
       "social_media": {
-        "Facebook": "https://www.facebook.com/CoppsDiPaolaSilverman/",
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
+        "Facebook": "https://www.facebook.com/CoppsDiPaolaSilverman/"
       },
       "focuses": [
         "Adoption",
@@ -638,6 +590,7 @@
     {
       "id": 19,
       "name": "Mary Walsh Snyder, Esq.",
+      "image": "Mary-Walsh-Snyder.jpg",
       "law_firm": "Law Office of Mary Walsh Snyder",
       "addresses": [
         "PO Box 11118"
@@ -655,11 +608,6 @@
       "email": "marywalshsnyder@gmail.com",
       "websites": [],
       "social_media": {
-        "Facebook": null,
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
       },
       "focuses": [
         "Adoption"
@@ -668,6 +616,7 @@
     {
       "id": 20,
       "name": "Cynthia Perla Meckler, Esq.",
+      "image": "Cynthia-Meckler.jpg",
       "law_firm": "",
       "addresses": [
         "8081 Floss Lane"
@@ -685,11 +634,6 @@
       "email": "cpmadopt@gmail.com",
       "websites": [],
       "social_media": {
-        "Facebook": null,
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
       },
       "focuses": [
         "Adoption"
@@ -698,6 +642,7 @@
     {
       "id": 21,
       "name": "Elizabeth E. Swire Falker, Esq.",
+      "image": "Elizabeth-Swire-Falker.jpg",
       "law_firm": "Elizabeth Swire Falker, Esq., PLLC",
       "addresses": [
         "60 East 42nd Street, 46th Flr"
@@ -717,11 +662,6 @@
         "http://www.StorkLawyer.com"
       ],
       "social_media": {
-        "Facebook": null,
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
       },
       "focuses": [
         "Adoption",
@@ -731,6 +671,7 @@
     {
       "id": 23,
       "name": "Steven L. Sarisohn, Esq.",
+      "image": "Steven-Sarisohn.JPG",
       "law_firm": "Sarisohn Law Partners, LLP",
       "addresses": [
         "350 Veterans Memorial Highway"
@@ -750,11 +691,6 @@
         "http://www.sarisohnlaw.com/"
       ],
       "social_media": {
-        "Facebook": null,
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
       },
       "focuses": [
         "Adoption"
@@ -763,6 +699,7 @@
     {
       "id": 24,
       "name": "Fred J. Magovern, Esq.",
+      "image": "Fred-Magovern.jpg",
       "law_firm": "Magovern & Sclafani",
       "addresses": [
         "1539 Frankline Avenue"
@@ -782,11 +719,6 @@
         "http://nyfamilylaw.expert"
       ],
       "social_media": {
-        "Facebook": null,
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
       },
       "focuses": [
         "Adoption"
@@ -795,6 +727,7 @@
     {
       "id": 25,
       "name": "Brian K. Esser, Esq.",
+      "image": "Brian-Esser.jpg",
       "law_firm": "Law Office of Brian Esser, PLLC",
       "addresses": [
         "540 President Street, 3rd Flr"
@@ -814,11 +747,7 @@
         "http://www.esserlawoffice.com"
       ],
       "social_media": {
-        "Facebook": null,
-        "Twitter": "https://twitter.com/brianesseresq",
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
+        "Twitter": "https://twitter.com/brianesseresq"
       },
       "focuses": [
         "Adoption",
@@ -828,6 +757,7 @@
     {
       "id": 27,
       "name": "Victoria T. Ferrara, Esq.",
+      "image": "Victoria-Ferrara.png",
       "law_firm": "The Ferrara Law Group",
       "addresses": [
         "2150 Post Road, Suite 401"
@@ -847,17 +777,14 @@
         "www.victoriaferrara.com"
       ],
       "social_media": {
-        "Facebook": "https://www.facebook.com/worldwidesurrogacy/",
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
+        "Facebook": "https://www.facebook.com/worldwidesurrogacy/"
       },
       "focuses": []
     },
     {
       "id": 28,
       "name": "Kevin P. Harrigan, Esq.",
+      "image": "Kevin-Harrigan.jpg",
       "law_firm": "Harrigan & Dolan",
       "addresses": [
         "205 S. Salina Street, Suite 403"
@@ -875,11 +802,6 @@
       "email": "kharrigan@atriumlawyers.como",
       "websites": [],
       "social_media": {
-        "Facebook": null,
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
       },
       "focuses": [
         "Adoption"
@@ -897,11 +819,6 @@
       "email": null,
       "websites": [],
       "social_media": {
-        "Facebook": null,
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
       },
       "focuses": []
     },
@@ -917,17 +834,13 @@
       "email": null,
       "websites": [],
       "social_media": {
-        "Facebook": null,
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
       },
       "focuses": []
     },
     {
       "id": 31,
       "name": "Harry O'Rourke, Esq.",
+      "image": "Harry-ORourke.jpg",
       "law_firm": "O'Rourke Seaman, LLP",
       "addresses": [
         "6800 Jericho Turnpike, Suite 120W"
@@ -947,11 +860,7 @@
         "www.orourkeseaman.com"
       ],
       "social_media": {
-        "Facebook": "https://www.facebook.com/h.v.orourke",
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
+        "Facebook": "https://www.facebook.com/h.v.orourke"
       },
       "focuses": [
         "Adoption",
@@ -970,17 +879,13 @@
       "email": null,
       "websites": [],
       "social_media": {
-        "Facebook": null,
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
       },
       "focuses": []
     },
     {
       "id": 33,
       "name": "Nina E. Rumbold, Esq.",
+      "image": "Nina-Rumbold.png",
       "law_firm": "Rumbold & Seidelman, LLP",
       "addresses": [
         "24 Walker Drive"
@@ -998,11 +903,6 @@
       "email": "nina.rumbold@outlook.com",
       "websites": [],
       "social_media": {
-        "Facebook": null,
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
       },
       "focuses": [
         "Adoption",
@@ -1012,6 +912,7 @@
     {
       "id": 34,
       "name": "Laurie Slavin, Esq.",
+      "image": "Laurie-Slavin.png",
       "law_firm": null,
       "addresses": [
         "P.O. Box 2580"
@@ -1031,11 +932,6 @@
         "www.hudsonvalleyadoptionservices.org"
       ],
       "social_media": {
-        "Facebook": null,
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
       },
       "focuses": [
         "Adoption"
@@ -1044,6 +940,7 @@
     {
       "id": 35,
       "name": "Douglas Haigh Reiniger, Esq.",
+      "image": "Doug-Reiniger.png",
       "law_firm": "The Reiniger Law Firm",
       "addresses": [
         "228 East 45th Street, Suite 900"
@@ -1063,11 +960,6 @@
         "www.lawrsm.com"
       ],
       "social_media": {
-        "Facebook": null,
-        "Twitter": null,
-        "LinkedIn": null,
-        "YouTube": null,
-        "Instagram": null
       },
       "focuses": [
         "Adoption"
@@ -1076,6 +968,7 @@
     {
       "id": 36,
       "name": "Virginia L. Frank, Esq.",
+      "image": "Virginia-Frank.jpg",
       "law_firm": "Virginia L. Frank, P.C.",
       "addresses": [
         "1434 Sprice Street, Suite 100"
@@ -1096,10 +989,7 @@
       ],
       "social_media": {
         "Facebook": "https://www.facebook.com/virginia.l.frank",
-        "Twitter": null,
-        "LinkedIn": "https://www.linkedin.com/in/virginia-frank-28065b40",
-        "YouTube": null,
-        "Instagram": null
+        "LinkedIn": "https://www.linkedin.com/in/virginia-frank-28065b40"
       },
       "focuses": [
         "Adoption",

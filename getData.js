@@ -42,15 +42,6 @@ module.exports = {
                }
                ids.push(member.id)
             });
-
-            const pics = require('./data/profile-pic');
-            Object.values(members).forEach(arr => arr.forEach(member => { // SELECT * FROM members INNER JOIN  "profile-pic" ON members.id = "profile-pic".id
-                if (pics[member.id]) {
-                    member.image = pics[member.id];
-                    return;
-                }
-                member.image = null;
-            }));
             return members;
         })()
     }
