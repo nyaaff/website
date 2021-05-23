@@ -1,18 +1,12 @@
 const express = require('express');
 const path = require('path');
+const ejs = require('ejs');
+const fs = require('fs');
 
 const app = express();
 const port = 3000;
 
-
-const Generator = require('ejs2static');
-
-const gen = new Generator({
-    sourceDir: './src',
-    outputDir: './dist',
-    copyAll: true,
-    data: require('./getData')
-});
+const data = require('./getData');
 
 
 app.set('view engine', 'ejs');
@@ -23,10 +17,10 @@ app.get('*', function (req, res, next) {
     if (!req.path.match(/\.html$/)) {
         return next();
     }
-    const filePath = path.resolve(path.join(__dirname, 'src', req.path.replace(/\.html$/, '.ejs')));
-    const data = gen.getData(filePath);
-    const view = filePath.replace(gen.sourceDir, '').replace(/\.ejs$/, '').substring(1);
-    res.render(view, data)
+    const fileName = req.path.replace(/\.html$/, '.ejs');
+    const filePath = path.resolve(path.join(__dirname, 'src', fileName));
+    const html = ejs.render(fs.readFileSync(filePath).toString(), data[fileName.substring(1)], {views: [path.join(__dirname, 'src')]});
+    res.end(html);
 });
 
 app.listen(port, () => console.log(`Dev app listening on port ${port}!`));

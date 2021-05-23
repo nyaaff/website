@@ -31,7 +31,7 @@
                     <span class="info">Bill Number: <%= effort.billno %></span>
                     <div class="file-list">
                         <% effort.files.forEach((file, index) => { %>
-                            <a target="_blank" href="/assets/position-pdfs/<%= file.name %>"
+                            <a target="_blank" href="/public/assets/position-pdfs/<%= file.name %>"
                                class="file-list--item btn"><%= file.date.toLocaleDateString() %></a>
                         <% }); %>
                     </div>
