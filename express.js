@@ -13,11 +13,15 @@ app.set('views', path.join(__dirname, 'src'));
 app.use(express.static(path.join(__dirname, 'src')));
 
 app.get('*', (req, res, next) => {
-    if (!req.path.match(/\.html$/)) {
+    let reqPath = req.path;
+    if (reqPath === '/') {
+        reqPath = '/index.html';
+    }
+    if (!reqPath.match(/\.html$/)) {
         next();
         return;
     }
-    const fileName = req.path.replace(/\.html$/, '.ejs');
+    const fileName = reqPath.replace(/\.html$/, '.ejs');
     const filePath = path.resolve(path.join(__dirname, 'src', fileName));
     const html = ejs.render(
         fs.readFileSync(filePath).toString(),

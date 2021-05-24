@@ -4,6 +4,7 @@
     "description": "A website for NYAAFF",
     "scripts": {
         "build": "node ./buildScript.js && cp -R src/public docs",
+        "dev": "node ./express.js",
         "lint": "eslint . && prettier --check .",
         "fix": "eslint --fix . && prettier --write --check ."
     },
