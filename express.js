@@ -6,13 +6,15 @@ const fs = require('fs');
 const app = express();
 const port = 3000;
 
-const data = require('./getData');
+const getData = require('./getData');
+
+const dataPromise = getData();
 
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'src'));
 app.use(express.static(path.join(__dirname, 'src')));
 
-app.get('*', (req, res, next) => {
+app.get('*', async (req, res, next) => {
     let reqPath = req.path;
     if (reqPath === '/') {
         reqPath = '/index.html';
@@ -25,7 +27,7 @@ app.get('*', (req, res, next) => {
     const filePath = path.resolve(path.join(__dirname, 'src', fileName));
     const html = ejs.render(
         fs.readFileSync(filePath).toString(),
-        data[fileName.substring(1)],
+        (await dataPromise)[fileName.substring(1)],
         { views: [path.join(__dirname, 'src')] }
     );
     res.end(html);

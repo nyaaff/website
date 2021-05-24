@@ -1,12 +1,13 @@
 const fs = require('fs');
 const path = require('path');
 const ejs = require('ejs');
-const data = require('./getData');
+const getData = require('./getData');
 
 const srcPath = path.join(__dirname, 'src');
 const buildPath = path.join(__dirname, 'docs');
 
-function buildDir(dir) {
+async function buildDir(dir) {
+    const data = await getData();
     const filesNDirs = fs.readdirSync(dir, { withFileTypes: true });
     filesNDirs.forEach((fileOrDir) => {
         if (fileOrDir.isDirectory()) {
@@ -37,5 +38,4 @@ function buildDir(dir) {
     });
 }
 
-buildDir(srcPath);
-console.log('Done!');
+buildDir(srcPath).then(() => console.log('Done!'));

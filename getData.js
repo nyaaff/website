@@ -1,8 +1,11 @@
 const moment = require('moment');
+const fetch = require('node-fetch');
+const { parse } = require('node-html-parser');
 const positions = require('./data/positions.json');
 const members = require('./data/members.json');
+const news = require('./data/news.json');
 
-module.exports = {
+module.exports = async () => ({
     'efforts.ejs': {
         efforts: positions
             .map((effort) => {
@@ -50,4 +53,32 @@ module.exports = {
             return members;
         })(),
     },
-};
+    'news.ejs': {
+        news,
+        meta: await (async () => {
+            const urls = [...news.art, ...news.adoption]
+                .filter((item) => item.type === 'article')
+                .map((item) => item.url);
+            const meta = {};
+            // eslint-disable-next-line no-restricted-syntax
+            for (const url of Object.values(urls)) {
+                // eslint-disable-next-line no-await-in-loop
+                const html = await fetch(url).then((resp) => resp.text());
+                const root = parse(html);
+                const metas = root.querySelectorAll('meta');
+                meta[url] = metas
+                    .filter(
+                        (el) =>
+                            el.getAttribute('property') &&
+                            el.getAttribute('property').startsWith('og:')
+                    )
+                    .reduce((acc, item) => {
+                        acc[item.getAttribute('property')] =
+                            item.getAttribute('content');
+                        return acc;
+                    }, {});
+            }
+            return meta;
+        })(),
+    },
+});

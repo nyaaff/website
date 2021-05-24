@@ -36,6 +36,9 @@
                         <% }); %>
                     </div>
                 <% } %>
+                <% if(effort.description) { %>
+                    <p class="effort--description"><%= effort.description %></p>
+                <% } %>
                 <% if(effort.partial) { %>
                     <%- include(`partials/${effort.partial}`) %>
                 <% } %>

@@ -1,0 +1,38 @@
+{
+    "art": [
+        {
+            "type": "article",
+            "url": "https://nypost.com/2021/04/24/why-married-moms-with-good-jobs-are-becoming-surrogates-for-other-women/"
+        },
+        {
+            "type": "article",
+            "url": "https://www.verywellfamily.com/what-you-need-to-know-about-gestational-surrogacy-newly-legal-in-new-york-5179978"
+        },
+        {
+            "type": "article",
+            "url": "https://www.gaycitynews.com/attorneys-discuss-gestational-surrogacy-options-in-new-york/"
+        },
+        {
+            "type": "article",
+            "url": "https://www.doctoroz.com/episode-playlist-sperm-donor/particle-3"
+        },
+        {
+            "type": "article",
+            "url": "https://nysba.org/whos-a-parent-the-appellate-division-is-divided-on-the-answer/"
+        },
+        {
+            "type": "article",
+            "url": "https://nysba.org/new-surrogacy-law-brings-opportunities-but-practitioners-beware/"
+        },
+        {
+            "type": "partial",
+            "path": "position/child-parent-security-act.ejs"
+        }
+    ],
+    "adoption": [
+        {
+            "type": "article",
+            "url": "https://nysba.org/new-york-state-bar-association-files-amicus-brief-with-u-s-supreme-court-to-protect-lgbtq-rights-and-foster-children/"
+        }
+    ]
+}

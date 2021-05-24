@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%- include('partials/head.ejs') %>
+    <link rel="stylesheet" href="/public/css/news.css">
+    <title>NYAAFF Members In The News | NYAAFF</title>
+</head>
+<body>
+<%- include("partials/header.ejs", {page: "news" }) %>
+<div class="top-image">
+    <div class="text-wrapper">
+        <h1 class="top-title">News</h1>
+    </div>
+</div>
+<div class="content-wrapper">
+    <div class="news-wrapper">
+        <h2>ART</h2>
+        <div class="news-item"><div></div></div>
+        <% news.art.forEach(item => { %>
+            <div class="news-item">
+                <%- include('partials/news-item.ejs', { item, meta }) %>
+            </div>
+        <% }) %>
+
+        <h2>Adoption</h2>
+        <% news.adoption.forEach(item => { %>
+            <div class="news-item">
+                <%- include('partials/news-item.ejs', { item, meta }) %>
+            </div>
+        <% }) %>
+    </div>
+    <hr>
+    <div class="disclaimer">The materials linked to on this subpage were created by entities other than NYAAFF or by
+        persons acting in their individual capacity, despite the fact that they may also be members, directors and/or
+        officers of NYAAFF. NYAAFF is not responsible for the privacy policies, or lack thereof, of any linked websites.
+        The opinions in the materials are the author’s own and do not necessarily reflect the views of NYAAFF. While we
+        have made every attempt to ensure that the information contained in this site has been obtained from reliable
+        sources, NYAAFF is not responsible for any errors or omissions in such information. All information in this site
+        is provided "as is", with no guarantee that it is current, complete or accurate. NYAAFF shall not be liable for
+        any decisions made or actions taken in reliance on the information in this site. The information in this site is
+        general in nature and should not be considered legal advice or a promise of results under any given set of facts
+        or circumstances. You should seek individual legal counsel regarding your situation and the laws that apply to
+        you.
+    </div>
+</div>
+<%- include('partials/footer.ejs') %>
+</body>
+</html>
