@@ -2,6 +2,22 @@
     background-image: url('/public/assets/images/courthouse.jpg');
 }
 
+.effort--title {
+    font-size: 70px;
+}
+
+@media screen and (max-width: 975px) {
+    .effort--title {
+        font-size: 50px;
+    }
+}
+
+@media screen and (max-width: 675px) {
+    .effort--title {
+        font-size: 35px;
+    }
+}
+
 /*.main-nav--item.active, .main-nav--item:hover {
     color: #81bcff;
 }*/

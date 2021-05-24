@@ -50,7 +50,7 @@
 }
 
 .main-nav {
-    font-size: 2.2vw;
+    font-size: 18px;
     font-weight: 700;
     text-transform: uppercase;
     text-shadow: rgba(0, 0, 0, 0.9) 0 0 25px;
@@ -59,7 +59,7 @@
 
 @media screen and (min-width: 1350px) {
     .main-nav {
-        font-size: 28px;
+        font-size: 20px;
     }
 }
 
@@ -128,7 +128,7 @@
     text-shadow: rgba(0, 0, 0, 0.6) 0 0 25px;
 }
 
-.top-image .text-wrapper h1 {
+.top-title {
     margin: 0;
     font-size: 85px;
 }
@@ -157,7 +157,7 @@
 }
 
 @media screen and (max-width: 975px) {
-    .top-image .text-wrapper h1 {
+    .top-title {
         font-size: 9.5vw;
     }
 
@@ -191,7 +191,7 @@
         background: inherit;
         padding: 20px;
         right: 0;
-        font-size: 24px;
+        font-size: 20px;
         width: 100%;
         overflow: hidden;
         height: 0;
