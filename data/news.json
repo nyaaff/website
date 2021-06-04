@@ -2,6 +2,10 @@
     "art": [
         {
             "type": "article",
+            "url": " https://www.cnn.com/2019/05/21/health/judge-approves-west-point-cadet-order/index.html"
+        },
+        {
+            "type": "article",
             "url": "https://nypost.com/2021/04/24/why-married-moms-with-good-jobs-are-becoming-surrogates-for-other-women/"
         },
         {
@@ -30,6 +34,10 @@
         }
     ],
     "adoption": [
+        {
+            "type": "article",
+            "url": "https://www.timesunion.com/opinion/article/Proposed-family-law-won-t-help-kids-14426133.php"
+        },
         {
             "type": "article",
             "url": "https://nysba.org/new-york-state-bar-association-files-amicus-brief-with-u-s-supreme-court-to-protect-lgbtq-rights-and-foster-children/"
