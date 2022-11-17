@@ -4,11 +4,11 @@
 <% if(item.type === "article" && meta[item.url]){ %>
     <a class="article" target="_blank" rel="noopener noreferrer" href="<%= item.url %>">
         <div class="article-image-wrapper">
-            <img src="<%= meta[item.url]["og:image"] %>" class="article-image">
+            <img src="<%= item.img || meta[item.url]["og:image"] %>" class="article-image">
         </div>
         <div class="article-meta">
             <div class="article-title"><%= meta[item.url]["og:title"] %></div>
-            <div class="article-author">By <span class="article-author-name"><%= meta[item.url]["og:site_name"] %></span></div>
+            <div class="article-author">By <span class="article-author-name"><%= item.author || meta[item.url]["og:site_name"] %></span></div>
             <div class="article-description"><%= meta[item.url]["og:description"] %></div>
         </div>
     </a>

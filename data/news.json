@@ -1,6 +1,16 @@
 {
     "art": [
         {
+            "type": "partial",
+            "path": "news/men-having-babies-conference.ejs"
+        },
+        {
+            "type": "article",
+            "url": "https://menhavingbabies.org/surrogacy-seminars/ny/",
+            "author": "Men Having Babies",
+            "img": "https://menhavingbabies.org/cms-data/image/NewYork-Gay-Surrogacy-Conference.jpg"
+        },
+        {
             "type": "article",
             "url": "https://nypost.com/2021/04/24/why-married-moms-with-good-jobs-are-becoming-surrogates-for-other-women/"
         },
@@ -34,6 +44,14 @@
         }
     ],
     "adoption": [
+        {
+            "type": "partial",
+            "path": "news/annual-conference-of-the-adoptive-parents.ejs"
+        },
+        {
+            "type": "article",
+            "url": "https://www.adoptiveparents.org/2022-conference-schedule"
+        },
         {
             "type": "article",
             "url": "https://nysba.org/new-york-state-bar-association-files-amicus-brief-with-u-s-supreme-court-to-protect-lgbtq-rights-and-foster-children/"
