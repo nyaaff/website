@@ -2,7 +2,7 @@
     "art": [
         {
             "type": "partial",
-            "path": "news/men-having-babies-conference.ejs"
+            "path": "/news/men-having-babies-conference.ejs"
         },
         {
             "type": "article",
@@ -46,7 +46,7 @@
     "adoption": [
         {
             "type": "partial",
-            "path": "news/annual-conference-of-the-adoptive-parents.ejs"
+            "path": "/news/annual-conference-of-the-adoptive-parents.ejs"
         },
         {
             "type": "article",
