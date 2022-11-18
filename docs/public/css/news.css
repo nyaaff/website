@@ -3,6 +3,21 @@
     height: 40vh;
 }
 
+.link-active:link {
+    color: blue;
+    text-decoration: underline;
+}
+
+.link-active:visited {
+    color: purple;
+    text-decoration: underline;
+}
+
+.link-active:hover {
+    color: #6464f5;
+    text-decoration: underline;
+}
+
 .disclaimer {
     font-size: 13px;
 }
