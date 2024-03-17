@@ -35,25 +35,43 @@
             "focuses": ["Adoption", "ART"]
         },
         {
-            "id": 16,
-            "name": "Joseph R. Williams, Esq. - Treasurer",
-            "image": "Joseph-Williams.jpg",
-            "law_firm": "Copps DiPaola Silverman, PLLC",
-            "addresses": ["1 Marcus Blvd., Suite 200"],
-            "cities": ["Albany"],
+            "id": 15,
+            "name": "Bill Singer, Esq. - Treasurer",
+            "image": "Bill-Singer.jpg",
+            "law_firm": "Diana Adams Law and Mediation PLLC",
+            "addresses": ["48 Wall Street, 11th Floor"],
+            "cities": ["New York"],
             "states": ["NY"],
-            "zips": ["12205"],
-            "phone": "518-436-4170",
-            "email": "jwilliams@theCDSLawFirm.com",
-            "websites": ["http://www.theCDSLawFirm.com"],
+            "zips": ["10005"],
+            "phone": "347-994-9529",
+            "email": "Bill@DianaAdamsLaw.net",
+            "websites": ["http://www.DianaAdamsLaw.net"],
             "social_media": {
-                "Facebook": "https://www.facebook.com/CoppsDiPaolaSilverman/"
+                "Facebook": "https://www.facebook.com/william.s.singer",
+                "Twitter": "https://twitter.com/billyatzion"
             },
-            "focuses": ["Adoption", "ART"]
+            "focuses": ["ART"]
         },
         {
+            "id": 9,
+            "image": "Jeanine-Castagna.jpg",
+            "name": "Jeanine Castagna, Esq. - Secretary",
+            "law_firm": "",
+            "addresses": ["1225 Franklin Ave., Suite 325"],
+            "cities": ["Garden City"],
+            "states": ["NY"],
+            "zips": ["11530"],
+            "phone": "516-495-7906",
+            "email": "jeanine@jcadoptionlaw.com",
+            "websites": ["http://www.jcadoptionlaw.com"],
+            "social_media": {},
+            "focuses": ["Adoption"]
+        }
+    ],
+    "directors": [
+        {
             "id": 13,
-            "name": "Laurie B. Goldheim, Esq. - Secretary",
+            "name": "Laurie B. Goldheim, Esq.",
             "image": "Laurie-Goldheim.JPG",
             "law_firm": "Law Office of Laurie B. Goldheim",
             "addresses": ["P.O. Box 142"],
@@ -69,41 +87,22 @@
                 "LinkedIn": "https://www.linkedin.com/in/laurie-goldheim-170a585/"
             },
             "focuses": ["Adoption", "ART"]
-        }
-    ],
-    "directors": [
-        {
-            "id": 8,
-            "name": "Amelia Demma, Esq.",
-            "image": "Amy-Demma.jpg",
-            "law_firm": "Law Offices of Amy Demma",
-            "addresses": ["81 Newtown Lane., No. 355"],
-            "cities": ["East Hampton"],
-            "states": ["NY"],
-            "zips": ["11937"],
-            "phone": "516-662-7532",
-            "email": "Amy.Demma@lawofficesofamydemma.com",
-            "websites": ["http://lawofficesofamydemma.com"],
-            "social_media": {
-                "Facebook": "http://www.facebook.com/amy.demma.law",
-                "Twitter": "http://twitter.com/amydemma",
-                "LinkedIn": "http://www.linkedin.com/in/amydemma"
-            },
-            "focuses": ["ART"]
         },
         {
-            "id": 26,
-            "name": "Brendan O’Shea, Esq.",
-            "image": "Brendan-OShea.jpg",
-            "law_firm": "Gleason Dunn Walsh & O’Shea",
-            "addresses": ["40 Beaver Street"],
+            "id": 16,
+            "name": "Joseph R. Williams, Esq.",
+            "image": "Joseph-Williams.jpg",
+            "law_firm": "Copps DiPaola Silverman, PLLC",
+            "addresses": ["1 Marcus Blvd., Suite 200"],
             "cities": ["Albany"],
-            "states": ["New York"],
-            "zips": ["12207"],
-            "phone": "(518) 432-7511",
-            "email": "boshea@gdwo.net",
-            "websites": ["https://gdwo.com/"],
-            "social_media": {},
+            "states": ["NY"],
+            "zips": ["12205"],
+            "phone": "518-436-4170",
+            "email": "jwilliams@theCDSLawFirm.com",
+            "websites": ["http://www.theCDSLawFirm.com"],
+            "social_media": {
+                "Facebook": "https://www.facebook.com/CoppsDiPaolaSilverman/"
+            },
             "focuses": ["Adoption", "ART"]
         },
         {
@@ -140,22 +139,50 @@
             "focuses": ["Adoption", "ART"]
         },
         {
-            "id": 9,
-            "image": "Jeanine-Castagna.jpg",
-            "name": "Jeanine Castagna, Esq.",
-            "law_firm": "",
-            "addresses": ["1225 Franklin Ave., Suite 325"],
-            "cities": ["Garden City"],
-            "states": ["NY"],
-            "zips": ["11530"],
-            "phone": "516-495-7906",
-            "email": "jeanine@jcadoptionlaw.com",
-            "websites": ["http://www.jcadoptionlaw.com"],
-            "social_media": {},
-            "focuses": ["Adoption"]
+            "id": 5,
+            "name": "Robin A. Fleischner, Esq.",
+            "image": "Robin-Fleishner.jpg",
+            "law_firm": "Robin A. Fleischner, Attorney at Law",
+            "addresses": [
+                "11 Riverside Drive, Suite 14MW",
+                "374 Millburn Avenue, Suite 303E"
+            ],
+            "cities": ["New York", "Millburn"],
+            "states": ["NY", "NJ"],
+            "zips": ["10023", "07041"],
+            "phone": "212-362-6945",
+            "email": "formfamilies@gmail.com",
+            "websites": ["https://adoptsurrogatelaw.com/"],
+            "social_media": {
+                "Facebook": "https://www.facebook.com/p/Adoption-and-Surrogacy-Attorney-Robin-Fleischner-100042555801611/",
+                "Twitter": "https://twitter.com/robinfleischner?lang=en",
+                "YouTube": "https://www.youtube.com/channel/UCcwaOo_lawKXaYIluVU0Q_Q",
+                "Instagram": "https://www.instagram.com/adoptsurrogatelaw/",
+                "Linkedin": "https://www.linkedin.com/in/robinfleischner/"
+            },
+            "focuses": ["Adoption", "ART"]
         }
     ],
     "members": [
+        {
+            "id": 8,
+            "name": "Amelia Demma, Esq.",
+            "image": "Amy-Demma.jpg",
+            "law_firm": "Law Offices of Amy Demma",
+            "addresses": ["81 Newtown Lane., No. 355"],
+            "cities": ["East Hampton"],
+            "states": ["NY"],
+            "zips": ["11937"],
+            "phone": "516-662-7532",
+            "email": "Amy.Demma@lawofficesofamydemma.com",
+            "websites": ["http://lawofficesofamydemma.com"],
+            "social_media": {
+                "Facebook": "http://www.facebook.com/amy.demma.law",
+                "Twitter": "http://twitter.com/amydemma",
+                "LinkedIn": "http://www.linkedin.com/in/amydemma"
+            },
+            "focuses": ["ART"]
+        },
         {
             "id": 1,
             "name": "Suzanne B. Nichols, Esq.",
@@ -185,29 +212,6 @@
             "websites": ["https://spence-chapin.org/"],
             "social_media": {},
             "focuses": ["Adoption"]
-        },
-        {
-            "id": 5,
-            "name": "Robin A. Fleischner, Esq.",
-            "image": "Robin-Fleishner.jpg",
-            "law_firm": "Robin A. Fleischner, Attorney at Law",
-            "addresses": [
-                "11 Riverside Drive, Suite 14MW",
-                "374 Millburn Avenue, Suite 303E"
-            ],
-            "cities": ["New York", "Millburn"],
-            "states": ["NY", "NJ"],
-            "zips": ["10023", "07041"],
-            "phone": "212-362-6945",
-            "email": "formfamilies@gmail.com",
-            "websites": ["https://adoptsurrogatelaw.com/"],
-            "social_media": {
-                "Facebook": "1. https://www.facebook.com/Adoption-and-Surrogacy-Attorney-Robin-Fleischner-1422519214632900/",
-                "Twitter": "https://twitter.com/robinfleischner?lang=en",
-                "YouTube": "https://www.youtube.com/channel/UCcwaOo_lawKXaYIluVU0Q_Q",
-                "Instagram": "https://www.instagram.com/adoptsurrogatelaw/"
-            },
-            "focuses": ["Adoption", "ART"]
         },
         {
             "id": 6,
@@ -301,24 +305,6 @@
                 "Instagram": "https://www.instagram.com/spencechapinsvc/"
             },
             "focuses": ["Adoption"]
-        },
-        {
-            "id": 15,
-            "name": "Bill Singer, Esq.",
-            "image": "Bill-Singer.jpg",
-            "law_firm": "Diana Adams Law and Mediation PLLC",
-            "addresses": ["48 Wall Street, 11th Floor"],
-            "cities": ["New York"],
-            "states": ["NY"],
-            "zips": ["10005"],
-            "phone": "347-994-9529",
-            "email": "Bill@DianaAdamsLaw.net",
-            "websites": ["http://www.DianaAdamsLaw.net"],
-            "social_media": {
-                "Facebook": "https://www.facebook.com/william.s.singer",
-                "Twitter": "https://twitter.com/billyatzion"
-            },
-            "focuses": ["ART"]
         },
         {
             "id": 21,
