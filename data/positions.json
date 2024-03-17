@@ -1,5 +1,37 @@
 [
     {
+        "title": "Letter to Governor Hochul in Opposition to NY OCFS ICPC Memo Regarding Approval of Living Expenses Paid in Connection with an Adoption (2/5/24)",
+        "date": "2/5/24",
+        "billno": "Not Applicable",
+        "position": "Oppose",
+        "status": "OCFS ICPC responded favorably",
+        "files": ["2024.02.05-Hochul Letter.pdf"]
+    },
+    {
+        "title": "Letter to American Public Human Services Association regarding NY ICPC Memo (1/26/24, 3/14/24)",
+        "date": "1/26/24, 3/14/24",
+        "billno": "Not Applicable",
+        "position": "Oppose",
+        "status": "OCFS ICPC responded favorably",
+        "files": ["2024.02.05-Hochul Letter.pdf"]
+    },
+    {
+        "title": "Proposed Legislation establishes procedures regarding orders of post-termination visitation and/or contact between a child and such child’s parent (11/2/23)",
+        "date": "11/2/23",
+        "billno": "S6720",
+        "position": "Oppose",
+        "status": "Vetoed by Governor",
+        "files": ["2023.11.02- Post-Termination Contact (Governor).pdf"]
+    },
+    {
+        "title": "Proposed Legislation Regarding Consent Rights of Unwed Birth Fathers in Foster Care Adoptions (12/19/22)",
+        "date": "12/19/22",
+        "billno": "S6389",
+        "position": "Oppose",
+        "status": "Passed",
+        "files": ["2022.12.19- DRL 111 (Foster Care).pdf"]
+    },
+    {
         "title": "Proposed Legislation Regarding Consent Rights of Unwed Birth Fathers in Foster Care Adoptions (5/23/21)",
         "date": "5/23/21",
         "billno": "S6359",
@@ -41,18 +73,6 @@
         "position": "Not Applicable",
         "status": "Not Applicable",
         "files": ["2021.02.12-NYAAFF-CPSA-Press-Release-Final.pdf"]
-    },
-    {
-        "title": "Office of Court Administration Proposed Legislation Regarding Notice and Consent Rights of Unwed Birth Fathers in Adoptions (2/24/21, 3/2/20, 6/3/19)",
-        "date": "2/24/21",
-        "billno": "Not Applicable",
-        "position": "Oppose",
-        "status": "Pending",
-        "files": [
-            "2021.02.24-Birth-Father-Notice.pdf",
-            "2020.03.02-DRL-111.pdf",
-            "2019.06.03-Birth-Father-Notice.pdf"
-        ]
     },
     {
         "title": "Issuance of Birth Certificates for Children Born by New York Surrogates to Out-of-State Parents (9/23/20)",
