@@ -401,7 +401,7 @@
             "email": "ACirel@wbny.com",
             "websites": ["https://www.wbny.com/Alexis-Cirel"],
             "social_media": {},
-            "focuses": []
+            "focuses": ["ART"]
         },
         {
             "id": 49,
@@ -416,7 +416,7 @@
             "email": "kurt@tarnellihugheslaw.com",
             "websites": ["https://tarnellihugheslaw.com/kurt-hughes"],
             "social_media": {},
-            "focuses": []
+            "focuses": ["Adoption", "ART"]
         },
         {
             "id": 48,
@@ -446,7 +446,7 @@
             "email": "michelle@tarnellihugheslaw.com",
             "websites": ["https://tarnellihugheslaw.com/michelle-tarnelli"],
             "social_media": {},
-            "focuses": []
+            "focuses": ["Adoption", "ART"]
         }
     ]
 }
