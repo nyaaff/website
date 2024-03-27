@@ -389,6 +389,25 @@
             "focuses": ["Adoption", "ART"]
         },
         {
+            "id": 37,
+            "name": "Richard Vaughn, Esq.",
+            "image": "Rich-Vaughn.jpg",
+            "law_firm": "International Fertility Law Group",
+            "addresses": ["501 Fifth Avenue,  Suite 1900"],
+            "cities": ["New York"],
+            "states": ["NY"],
+            "zips": ["10017"],
+            "phone": "212-388-6966",
+            "email": "",
+            "websites": ["https://www.iflg.net/"],
+            "social_media": {
+                "Facebook": "https://www.facebook.com/IFLGInc",
+                "LinkedIn": "https://www.linkedin.com/in/richardvaughnesq/",
+                "Twitter": "https://www.instagram.com/iflginc/"
+            },
+            "focuses": ["ART"]
+        },
+        {
             "id": 50,
             "name": "Alexis Cirel, Esq.",
             "image": "Alexis-Cirel.jpg",
@@ -399,8 +418,14 @@
             "zips": ["10022"],
             "phone": "212-984-7706",
             "email": "ACirel@wbny.com",
-            "websites": ["https://www.wbny.com/Alexis-Cirel"],
-            "social_media": {},
+            "websites": [
+                "https://www.wbny.com/Alexis-Cirel",
+                "https://fertilitylaw.wbny.com/"
+            ],
+            "social_media": {
+                "Instagram": "https://www.instagram.com/alexis_cirel/?hl=en",
+                "LinkedIn": "https://www.linkedin.com/in/alexis-cirel/"
+            },
             "focuses": ["ART"]
         },
         {
@@ -415,7 +440,9 @@
             "phone": "802-540-1738",
             "email": "kurt@tarnellihugheslaw.com",
             "websites": ["https://tarnellihugheslaw.com/kurt-hughes"],
-            "social_media": {},
+            "social_media": {
+                "LinkedIn": "https://www.linkedin.com/in/kurt-hughes-8b3b4028/"
+            },
             "focuses": ["Adoption", "ART"]
         },
         {
@@ -445,7 +472,9 @@
             "phone": "802-540-1738",
             "email": "michelle@tarnellihugheslaw.com",
             "websites": ["https://tarnellihugheslaw.com/michelle-tarnelli"],
-            "social_media": {},
+            "social_media": {
+                "LinkedIn": "https://www.linkedin.com/in/michelletarnelli/"
+            },
             "focuses": ["Adoption", "ART"]
         }
     ]
