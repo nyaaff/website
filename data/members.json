@@ -462,6 +462,28 @@
         },
         {
             "id": 47,
+            "name": "Jennifer P. Maas",
+            "image": "Jennifer-Maas.jpg",
+            "law_firm": "Law Office of Jennifer P. Maas, PLLC",
+            "addresses": [
+                "694 Motor Parkway, Suite 200",
+                "211 East 43rd Street, 7th Floor"
+            ],
+            "cities": ["Hauppauge", "New York"],
+            "states": ["NY", "NY"],
+            "zips": ["11788", "10017"],
+            "phone": "212-860-0120, 516-464-1754",
+            "email": "jennifer@JPMfertilitylaw.com",
+            "websites": ["http://www.JPMfertilitylaw.com"],
+            "social_media": {
+                "LinkedIn": "https://www.linkedin.com/in/jennifer-maas-27779a6/",
+                "Instagram": "https://www.instagram.com/jpmfertilitylaw/",
+                "Facebook": "https://www.facebook.com/JPMFertilityLaw"
+            },
+            "focuses": ["ART"]
+        },
+        {
+            "id": 46,
             "name": "Michelle A Tarnelli, Esq.",
             "image": "Michelle-Tarnelli.jpg",
             "law_firm": "Tarnelli & Hughes, LLP",
@@ -474,6 +496,30 @@
             "websites": ["https://tarnellihugheslaw.com/michelle-tarnelli"],
             "social_media": {
                 "LinkedIn": "https://www.linkedin.com/in/michelletarnelli/"
+            },
+            "focuses": ["Adoption", "ART"]
+        },
+        {
+            "id": 45,
+            "name": "Janene Oleaga",
+            "image": "Janene-Oleaga.jpg",
+            "law_firm": "Oleaga Law LLC",
+            "addresses": [
+                "254 Commercial Street, Suite 245",
+                "133C New York Avenue"
+            ],
+            "cities": ["Portland", "Huntington"],
+            "states": ["ME", "NY"],
+            "zips": ["04101", "11743"],
+            "phone": "207-200-6780, 631-840-7967",
+            "email": "janene@NYreproductionlawyer.com",
+            "websites": [
+                "http://www.nyreproductionlawyer.com",
+                "www.mainereproductionlawyer.com"
+            ],
+            "social_media": {
+                "Facebook": "https://www.facebook.com/oleagalawllc",
+                "Instagram": "https://www.instagram.com/oleaga_law/"
             },
             "focuses": ["Adoption", "ART"]
         }
