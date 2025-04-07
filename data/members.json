@@ -354,23 +354,6 @@
             "focuses": ["Adoption", "ART"]
         },
         {
-            "id": 27,
-            "name": "Victoria T. Ferrara, Esq.",
-            "image": "Victoria-Ferrara.png",
-            "law_firm": "The Ferrara Law Group",
-            "addresses": ["2150 Post Road, Suite 401"],
-            "cities": ["Fairfield"],
-            "states": ["CT"],
-            "zips": [""],
-            "phone": "203-255-9877",
-            "email": "info@worldwidesurrogacy.org",
-            "websites": ["www.victoriaferrara.com"],
-            "social_media": {
-                "Facebook": "https://www.facebook.com/worldwidesurrogacy/"
-            },
-            "focuses": []
-        },
-        {
             "id": 36,
             "name": "Virginia L. Frank, Esq.",
             "image": "Virginia-Frank.jpg",
@@ -522,6 +505,23 @@
                 "Instagram": "https://www.instagram.com/oleaga_law/"
             },
             "focuses": ["Adoption", "ART"]
+        },
+        {
+            "id": 44,
+            "name": "Natalie S. French",
+            "image": "Natalie-French.jpg",
+            "law_firm": "Hancock Estabrook, LLP",
+            "addresses": ["200 East Buffalo Street, Suite 301"],
+            "cities": ["Ithaca"],
+            "states": ["NY"],
+            "zips": ["14850"],
+            "phone": "607-391-2863",
+            "email": "nfrench@hancocklaw.com",
+            "websites": ["https://www.hancocklaw.com/"],
+            "social_media": {
+                "Linkedin": "https://www.linkedin.com/in/nataliespeterman/"
+            },
+            "focuses": ["Adoption"]
         }
     ]
 }
