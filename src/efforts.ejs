@@ -15,49 +15,67 @@
 </div>
 <div class="content-wrapper">
     <h2>Our Work</h2>
-    <p class="info">NYAAFF’s main function is to monitor and weigh in on proposed legislation in the fields of adoption
+    <p class="info">NYAAFF's main function is to monitor and weigh in on proposed legislation in the fields of adoption
         and assisted reproduction in New York State. Based on our collective knowledge and experience in these areas, we
         determine whether to support, oppose or propose revisions to each piece of proposed legislation.</p>
     <p class="info">NYAAFF also drafts legislation to address issues our clients are experiencing as a result of
         problems with the current laws in the fields of adoption and assisted reproduction.</p>
     <h2>Position Letters</h2>
     <div class="efforts-list">
-        <div class="effort-list--item">
-            <h3 class="title">Public Service Video in support of Senate Bill S. 3765 and Assembly Bill A1944 providing Certificates of Birth Data for Adult Adoptees Born Abroad</h3>
-
-            <span class="info">Position: Support</span>
-            <span class="info">Status: Pending</span>
-            <span class="info">Bill Number: S3765/A1944</span>
-            <div class="file-list">
-
-                <a target="_blank" href="https://wowza.nycourts.gov/vod/wowzaplayer.php?source=ji&video=Foreign_Adoptions_PSA_Final.mp4"
-                   class="file-list--item btn">4/22/25</a>
-
-            </div>
-        </div>
-
-        <% efforts.forEach(effort => { %>
+        <% if (efforts.length > 0) { %>
             <div class="effort-list--item">
-                <h3 class="title"><%= effort.title %></h3>
-                <% if(!effort.hideInfo) { %>
-                    <span class="info">Position: <%= effort.position %></span>
-                    <span class="info">Status: <%= effort.status %></span>
-                    <span class="info">Bill Number: <%= effort.billno %></span>
+                <h3 class="title"><%= efforts[0].title %></h3>
+                <% if(!efforts[0].hideInfo) { %>
+                    <span class="info">Position: <%= efforts[0].position %></span>
+                    <span class="info">Status: <%= efforts[0].status %></span>
+                    <span class="info">Bill Number: <%= efforts[0].billno %></span>
                     <div class="file-list">
-                        <% effort.files.forEach((file, index) => { %>
+                        <% efforts[0].files.forEach((file, index) => { %>
                             <a target="_blank" href="/public/assets/position-pdfs/<%= file.name %>"
                                class="file-list--item btn"><%= file.date.toLocaleDateString() %></a>
                         <% }); %>
                     </div>
                 <% } %>
-                <% if(effort.description) { %>
-                    <p class="effort--description"><%= effort.description %></p>
+                <% if(efforts[0].description) { %>
+                    <p class="effort--description"><%= efforts[0].description %></p>
                 <% } %>
-                <% if(effort.partial) { %>
-                    <%- include(`partials/${effort.partial}`) %>
+                <% if(efforts[0].partial) { %>
+                    <%- include(`partials/${efforts[0].partial}`) %>
                 <% } %>
             </div>
-        <% }) %>
+        <% } %>
+        <div class="effort-list--item">
+            <h3 class="title">Public Service Video in support of Senate Bill S. 3765 and Assembly Bill A1944 providing Certificates of Birth Data for Adult Adoptees Born Abroad</h3>
+            <span class="info">Position: Support</span>
+            <span class="info">Status: Pending</span>
+            <span class="info">Bill Number: S3765/A1944</span>
+            <div class="file-list">
+                <a target="_blank" href="https://wowza.nycourts.gov/vod/wowzaplayer.php?source=ji&video=Foreign_Adoptions_PSA_Final.mp4"
+                   class="file-list--item btn">4/22/2025</a>
+            </div>
+        </div>
+        <% for (let i = 1; i < efforts.length; i++) { %>
+            <div class="effort-list--item">
+                <h3 class="title"><%= efforts[i].title %></h3>
+                <% if(!efforts[i].hideInfo) { %>
+                    <span class="info">Position: <%= efforts[i].position %></span>
+                    <span class="info">Status: <%= efforts[i].status %></span>
+                    <span class="info">Bill Number: <%= efforts[i].billno %></span>
+                    <div class="file-list">
+                        <% efforts[i].files.forEach((file, index) => { %>
+                            <a target="_blank" href="/public/assets/position-pdfs/<%= file.name %>"
+                               class="file-list--item btn"><%= file.date.toLocaleDateString() %></a>
+                        <% }); %>
+                    </div>
+                <% } %>
+                <% if(efforts[i].description) { %>
+                    <p class="effort--description"><%= efforts[i].description %></p>
+                <% } %>
+                <% if(efforts[i].partial) { %>
+                    <%- include(`partials/${efforts[i].partial}`) %>
+                <% } %>
+            </div>
+        <% } %>
     </div>
 </div>
 <%- include('partials/footer.ejs') %>

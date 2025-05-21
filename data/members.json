@@ -1,8 +1,44 @@
 {
     "officers": [
         {
+            "id": 13,
+            "name": "Laurie B. Goldheim, Esq. - Co-President",
+            "image": "Laurie-Goldheim.JPG",
+            "law_firm": "Law Office of Laurie B. Goldheim",
+            "addresses": ["P.O. Box 142"],
+            "cities": ["Briarcliff Manor"],
+            "states": ["NY"],
+            "zips": ["10510"],
+            "phone": "845-624-2727",
+            "email": "lgoldheim@adoptionrights.com",
+            "websites": ["http://www.adoptionrights.com"],
+            "social_media": {
+                "Facebook": "https://www.facebook.com/LawOfficesofLaurieBGoldheim/",
+                "Twitter": "https://twitter.com/LGoldheim",
+                "LinkedIn": "https://www.linkedin.com/in/laurie-goldheim-170a585/"
+            },
+            "focuses": ["Adoption", "ART"]
+        },
+        {
+            "id": 3,
+            "name": "Rebecca L. Mendel, Esq. - Co-President",
+            "image": "Rebecca-Mendel.jpg",
+            "law_firm": "Rosin Steinhagen Mendel, PLLC",
+            "addresses": ["228 East 45th Street, Suite 900"],
+            "cities": ["New York"],
+            "states": ["NY"],
+            "zips": ["10017"],
+            "phone": "212-972-5430",
+            "email": "rmendel@lawrsm.com",
+            "websites": ["http://www.lawrsm.com"],
+            "social_media": {
+                "Facebook": "https://www.facebook.com/nycfamilylaw/"
+            },
+            "focuses": ["Adoption", "ART"]
+        },
+        {
             "id": 17,
-            "name": "Casey Copps DiPaola, Esq. - President",
+            "name": "Casey Copps DiPaola, Esq. - Past President",
             "image": "Casey-Copps-DiPaola.jpg",
             "law_firm": "Copps DiPaola Silverman, PLLC",
             "addresses": ["1 Marcus Blvd., Suite 200"],
@@ -18,19 +54,20 @@
             "focuses": ["Adoption", "ART"]
         },
         {
-            "id": 3,
-            "name": "Rebecca L. Mendel, Esq. - Vice President",
-            "image": "Rebecca-Mendel.jpg",
-            "law_firm": "Rosin Steinhagen Mendel, PLLC",
-            "addresses": ["228 East 45th Street, Suite 900"],
-            "cities": ["New York"],
+            "id": 22,
+            "name": "Denise E. Seidelman, Esq. - Vice President",
+            "image": "Denise-Seidelman.jpg",
+            "law_firm": "Rumbold & Seidelman, LLP",
+            "addresses": ["116 Kraft Avenue, Suite 3"],
+            "cities": ["Bronxville"],
             "states": ["NY"],
-            "zips": ["10017"],
-            "phone": "212-972-5430",
-            "email": "rmendel@lawrsm.com",
-            "websites": ["http://www.lawrsm.com"],
+            "zips": ["10708"],
+            "phone": "914-779-1050",
+            "email": "dseidelman@adoptionlawny.com",
+            "websites": ["https://adoptionlawny.com/"],
             "social_media": {
-                "Facebook": "https://www.facebook.com/nycfamilylaw/"
+                "Facebook": "https://www.facebook.com/RumboldandSeidelman/",
+                "Twitter": "https://twitter.com/adoptionlawnynj"
             },
             "focuses": ["Adoption", "ART"]
         },
@@ -70,23 +107,50 @@
     ],
     "directors": [
         {
-            "id": 13,
-            "name": "Laurie B. Goldheim, Esq.",
-            "image": "Laurie-Goldheim.JPG",
-            "law_firm": "Law Office of Laurie B. Goldheim",
-            "addresses": ["P.O. Box 142"],
-            "cities": ["Briarcliff Manor"],
-            "states": ["NY"],
-            "zips": ["10510"],
-            "phone": "845-624-2727",
-            "email": "lgoldheim@adoptionrights.com",
-            "websites": ["http://www.adoptionrights.com"],
+            "id": 45,
+            "name": "Janene Oleaga",
+            "image": "Janene-Oleaga.jpg",
+            "law_firm": "Oleaga Law LLC",
+            "addresses": [
+                "254 Commercial Street, Suite 245",
+                "133C New York Avenue"
+            ],
+            "cities": ["Portland", "Huntington"],
+            "states": ["ME", "NY"],
+            "zips": ["04101", "11743"],
+            "phone": "207-200-6780, 631-840-7967",
+            "email": "janene@NYreproductionlawyer.com",
+            "websites": [
+                "http://www.nyreproductionlawyer.com",
+                "www.mainereproductionlawyer.com"
+            ],
             "social_media": {
-                "Facebook": "https://www.facebook.com/LawOfficesofLaurieBGoldheim/",
-                "Twitter": "https://twitter.com/LGoldheim",
-                "LinkedIn": "https://www.linkedin.com/in/laurie-goldheim-170a585/"
+                "Facebook": "https://www.facebook.com/oleagalawllc",
+                "Instagram": "https://www.instagram.com/oleaga_law/"
             },
             "focuses": ["Adoption", "ART"]
+        },
+        {
+            "id": 47,
+            "name": "Jennifer P. Maas",
+            "image": "Jennifer-Maas.jpg",
+            "law_firm": "Law Office of Jennifer P. Maas, PLLC",
+            "addresses": [
+                "694 Motor Parkway, Suite 200",
+                "211 East 43rd Street, 7th Floor"
+            ],
+            "cities": ["Hauppauge", "New York"],
+            "states": ["NY", "NY"],
+            "zips": ["11788", "10017"],
+            "phone": "212-860-0120, 516-464-1754",
+            "email": "jennifer@JPMfertilitylaw.com",
+            "websites": ["http://www.JPMfertilitylaw.com"],
+            "social_media": {
+                "LinkedIn": "https://www.linkedin.com/in/jennifer-maas-27779a6/",
+                "Instagram": "https://www.instagram.com/jpmfertilitylaw/",
+                "Facebook": "https://www.facebook.com/JPMFertilityLaw"
+            },
+            "focuses": ["ART"]
         },
         {
             "id": 16,
@@ -106,39 +170,6 @@
             "focuses": ["Adoption", "ART"]
         },
         {
-            "id": 22,
-            "name": "Denise E. Seidelman, Esq.",
-            "image": "Denise-Seidelman.jpg",
-            "law_firm": "Rumbold & Seidelman, LLP",
-            "addresses": ["116 Kraft Avenue, Suite 3"],
-            "cities": ["Bronxville"],
-            "states": ["NY"],
-            "zips": ["10708"],
-            "phone": "914-779-1050",
-            "email": "dseidelman@adoptionlawny.com",
-            "websites": ["https://adoptionlawny.com/"],
-            "social_media": {
-                "Facebook": "https://www.facebook.com/RumboldandSeidelman/",
-                "Twitter": "https://twitter.com/adoptionlawnynj"
-            },
-            "focuses": ["Adoption", "ART"]
-        },
-        {
-            "id": 2,
-            "image": "Greg-Franklin.jpg",
-            "name": "Gregory A. Franklin, Esq.",
-            "law_firm": "Ashcraft Franklin & Young, LLP",
-            "addresses": ["150 Allens Creek Road"],
-            "cities": ["Rochester"],
-            "states": ["NY"],
-            "zips": ["14618"],
-            "phone": "585-442-0540 x307",
-            "email": "Gfranklin@AFYLaw.com",
-            "websites": ["http://www.AdoptionNY.com"],
-            "social_media": {},
-            "focuses": ["Adoption", "ART"]
-        },
-        {
             "id": 5,
             "name": "Robin A. Fleischner, Esq.",
             "image": "Robin-Fleishner.jpg",
@@ -155,7 +186,6 @@
             "websites": ["https://adoptsurrogatelaw.com/"],
             "social_media": {
                 "Facebook": "https://www.facebook.com/p/Adoption-and-Surrogacy-Attorney-Robin-Fleischner-100042555801611/",
-                "Twitter": "https://twitter.com/robinfleischner?lang=en",
                 "YouTube": "https://www.youtube.com/channel/UCcwaOo_lawKXaYIluVU0Q_Q",
                 "Instagram": "https://www.instagram.com/adoptsurrogatelaw/",
                 "Linkedin": "https://www.linkedin.com/in/robinfleischner/"
@@ -164,6 +194,21 @@
         }
     ],
     "members": [
+        {
+            "id": 2,
+            "image": "Greg-Franklin.jpg",
+            "name": "Gregory A. Franklin, Esq.",
+            "law_firm": "Ashcraft Franklin & Young, LLP",
+            "addresses": ["150 Allens Creek Road"],
+            "cities": ["Rochester"],
+            "states": ["NY"],
+            "zips": ["14618"],
+            "phone": "585-442-0540 x307",
+            "email": "Gfranklin@AFYLaw.com",
+            "websites": ["http://www.AdoptionNY.com"],
+            "social_media": {},
+            "focuses": ["Adoption", "ART"]
+        },
         {
             "id": 8,
             "name": "Amelia Demma, Esq.",
@@ -391,20 +436,17 @@
             "focuses": ["ART"]
         },
         {
-            "id": 50,
-            "name": "Alexis Cirel, Esq.",
+            "id": 51,
+            "name": "Alexis L. Cirel, Esq.",
             "image": "Alexis-Cirel.jpg",
-            "law_firm": "Warshaw Burstein, LLP",
-            "addresses": ["575 Lexington Avenue"],
+            "law_firm": "Schwartz Sladkus Reich Greenberg Atlas LLP",
+            "addresses": ["444 Madison Avenue"],
             "cities": ["New York"],
             "states": ["NY"],
             "zips": ["10022"],
-            "phone": "212-984-7706",
-            "email": "ACirel@wbny.com",
-            "websites": [
-                "https://www.wbny.com/Alexis-Cirel",
-                "https://fertilitylaw.wbny.com/"
-            ],
+            "phone": "212-743-7021",
+            "email": "acirel@ssrga.com",
+            "websites": ["https://ssrga.com/attorney/alexis-cirel/"],
             "social_media": {
                 "Instagram": "https://www.instagram.com/alexis_cirel/?hl=en",
                 "LinkedIn": "https://www.linkedin.com/in/alexis-cirel/"
@@ -444,28 +486,6 @@
             "focuses": []
         },
         {
-            "id": 47,
-            "name": "Jennifer P. Maas",
-            "image": "Jennifer-Maas.jpg",
-            "law_firm": "Law Office of Jennifer P. Maas, PLLC",
-            "addresses": [
-                "694 Motor Parkway, Suite 200",
-                "211 East 43rd Street, 7th Floor"
-            ],
-            "cities": ["Hauppauge", "New York"],
-            "states": ["NY", "NY"],
-            "zips": ["11788", "10017"],
-            "phone": "212-860-0120, 516-464-1754",
-            "email": "jennifer@JPMfertilitylaw.com",
-            "websites": ["http://www.JPMfertilitylaw.com"],
-            "social_media": {
-                "LinkedIn": "https://www.linkedin.com/in/jennifer-maas-27779a6/",
-                "Instagram": "https://www.instagram.com/jpmfertilitylaw/",
-                "Facebook": "https://www.facebook.com/JPMFertilityLaw"
-            },
-            "focuses": ["ART"]
-        },
-        {
             "id": 46,
             "name": "Michelle A Tarnelli, Esq.",
             "image": "Michelle-Tarnelli.jpg",
@@ -479,30 +499,6 @@
             "websites": ["https://tarnellihugheslaw.com/michelle-tarnelli"],
             "social_media": {
                 "LinkedIn": "https://www.linkedin.com/in/michelletarnelli/"
-            },
-            "focuses": ["Adoption", "ART"]
-        },
-        {
-            "id": 45,
-            "name": "Janene Oleaga",
-            "image": "Janene-Oleaga.jpg",
-            "law_firm": "Oleaga Law LLC",
-            "addresses": [
-                "254 Commercial Street, Suite 245",
-                "133C New York Avenue"
-            ],
-            "cities": ["Portland", "Huntington"],
-            "states": ["ME", "NY"],
-            "zips": ["04101", "11743"],
-            "phone": "207-200-6780, 631-840-7967",
-            "email": "janene@NYreproductionlawyer.com",
-            "websites": [
-                "http://www.nyreproductionlawyer.com",
-                "www.mainereproductionlawyer.com"
-            ],
-            "social_media": {
-                "Facebook": "https://www.facebook.com/oleagalawllc",
-                "Instagram": "https://www.instagram.com/oleaga_law/"
             },
             "focuses": ["Adoption", "ART"]
         },
