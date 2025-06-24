@@ -28,6 +28,30 @@
     color: gray;
 }
 
+.co-presidents-container {
+    display: flex;
+    gap: 20px;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.footer--contact {
+    flex: 2;
+}
+
+.footer--info {
+    flex: 1;
+}
+
+.president-info {
+    flex: 1;
+    min-width: 260px;
+}
+
+.president-info p {
+    margin: 0;
+}
+
 @media screen and (max-width: 900px) {
     .footer {
         flex-direction: column;
@@ -36,6 +60,11 @@
 
     .footer--contact {
         margin-bottom: 30px;
+    }
+
+    .co-presidents-container {
+        flex-direction: column;
+        gap: 20px;
     }
 
     .footer--info {
