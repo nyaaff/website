@@ -14,8 +14,8 @@
             "websites": ["http://www.adoptionrights.com"],
             "social_media": {
                 "Facebook": "https://www.facebook.com/LawOfficesofLaurieBGoldheim/",
-                "Twitter": "https://twitter.com/LGoldheim",
-                "LinkedIn": "https://www.linkedin.com/in/laurie-goldheim-170a585/"
+                "LinkedIn": "https://www.linkedin.com/in/laurie-goldheim-170a585/",
+                "Instagram": "https://www.instagram.com/laurie_goldheim_esq/"
             },
             "focuses": ["Adoption", "ART"]
         },
@@ -32,7 +32,8 @@
             "email": "rmendel@lawrsm.com",
             "websites": ["http://www.lawrsm.com"],
             "social_media": {
-                "Facebook": "https://www.facebook.com/nycfamilylaw/"
+                "Facebook": "https://www.facebook.com/nycfamilylaw/",
+                "LinkedIn": "https://www.linkedin.com/in/rebecca-mendel-74479a11/"
             },
             "focuses": ["Adoption", "ART"]
         },
@@ -49,7 +50,8 @@
             "email": "kdipaola@theCDSLawFirm.com",
             "websites": ["http://www.theCDSLawFirm.com"],
             "social_media": {
-                "Facebook": "https://www.facebook.com/CoppsDiPaolaSilverman/"
+                "Facebook": "https://www.facebook.com/CoppsDiPaolaSilverman/",
+                "Instagram": "https://www.instagram.com/thecdslawfirm/"
             },
             "focuses": ["Adoption", "ART"]
         },
@@ -57,11 +59,11 @@
             "id": 22,
             "name": "Denise E. Seidelman, Esq. - Vice President",
             "image": "Denise-Seidelman.jpg",
-            "law_firm": "Rumbold & Seidelman, LLP",
-            "addresses": ["116 Kraft Avenue, Suite 3"],
-            "cities": ["Bronxville"],
+            "law_firm": "Rumbold & Seidelman, PLLC",
+            "addresses": ["7 Orchard Street"],
+            "cities": ["Nyack"],
             "states": ["NY"],
-            "zips": ["10708"],
+            "zips": ["10960"],
             "phone": "914-779-1050",
             "email": "dseidelman@adoptionlawny.com",
             "websites": ["https://adoptionlawny.com/"],
@@ -75,19 +77,20 @@
             "id": 15,
             "name": "Bill Singer, Esq. - Treasurer",
             "image": "Bill-Singer.jpg",
-            "law_firm": "Diana Adams Law and Mediation PLLC",
-            "addresses": ["48 Wall Street, 11th Floor"],
-            "cities": ["New York"],
-            "states": ["NY"],
-            "zips": ["10005"],
-            "phone": "347-994-9529",
-            "email": "Bill@DianaAdamsLaw.net",
-            "websites": ["http://www.DianaAdamsLaw.net"],
+            "law_firm": "Singer & Fedun, LLC",
+            "addresses": ["2230 Route 206, P.O. Box 134"],
+            "cities": ["Belle Mead"],
+            "states": ["NJ"],
+            "zips": ["08502"],
+            "phone": "908-359-7873",
+            "email": "wsinger@singerfedun.com",
+            "websites": ["http://www.singerfedun.com/"],
             "social_media": {
                 "Facebook": "https://www.facebook.com/william.s.singer",
-                "Twitter": "https://twitter.com/billyatzion"
+                "Twitter": "https://twitter.com/billyatzion",
+                "Instagram": "https://www.instagram.com/billsingeresq/"
             },
-            "focuses": ["ART"]
+            "focuses": ["Adoption", "ART"]
         },
         {
             "id": 9,
@@ -113,20 +116,17 @@
             "law_firm": "Oleaga Law LLC",
             "addresses": [
                 "254 Commercial Street, Suite 245",
-                "133C New York Avenue"
+                "305 Broadway, Suite 711"
             ],
-            "cities": ["Portland", "Huntington"],
+            "cities": ["Portland", "New York"],
             "states": ["ME", "NY"],
-            "zips": ["04101", "11743"],
-            "phone": "207-200-6780, 631-840-7967",
-            "email": "janene@NYreproductionlawyer.com",
-            "websites": [
-                "http://www.nyreproductionlawyer.com",
-                "www.mainereproductionlawyer.com"
-            ],
+            "zips": ["04101", "10007"],
+            "phone": "207-200-6780, 212-897-5839",
+            "email": "janene@IVFesq.com",
+            "websites": ["http://www.ivfesq.com/"],
             "social_media": {
                 "Facebook": "https://www.facebook.com/oleagalawllc",
-                "Instagram": "https://www.instagram.com/oleaga_law/"
+                "Instagram": "https://www.instagram.com/ivf_esq/"
             },
             "focuses": ["Adoption", "ART"]
         },
@@ -176,7 +176,7 @@
             "law_firm": "Robin A. Fleischner, Attorney at Law",
             "addresses": [
                 "11 Riverside Drive, Suite 14MW",
-                "374 Millburn Avenue, Suite 303E"
+                "374 Millburn Avenue, Suite 201ABW"
             ],
             "cities": ["New York", "Millburn"],
             "states": ["NY", "NJ"],
@@ -191,14 +191,31 @@
                 "Linkedin": "https://www.linkedin.com/in/robinfleischner/"
             },
             "focuses": ["Adoption", "ART"]
+        },
+        {
+            "id": 25,
+            "name": "Brian K. Esser, Esq.",
+            "image": "Brian-Esser.jpg",
+            "law_firm": "Law Office of Brian Esser, PLLC",
+            "addresses": ["41 Flatbush Avenue, Suite 1"],
+            "cities": ["Brooklyn"],
+            "states": ["NY"],
+            "zips": ["11217"],
+            "phone": "718-747-8447",
+            "email": "brian@esserlawoffice.com",
+            "websites": ["http://www.esserlawoffice.com"],
+            "social_media": {
+                "Twitter": "https://twitter.com/brianesseresq"
+            },
+            "focuses": ["Adoption", "ART"]
         }
     ],
     "members": [
         {
             "id": 2,
             "image": "Greg-Franklin.jpg",
-            "name": "Gregory A. Franklin, Esq.",
-            "law_firm": "Ashcraft Franklin & Young, LLP",
+            "name": "Gregory M. Franklin, Esq.",
+            "law_firm": "Ashcroft & Franklin, LLP",
             "addresses": ["150 Allens Creek Road"],
             "cities": ["Rochester"],
             "states": ["NY"],
@@ -223,7 +240,6 @@
             "websites": ["http://lawofficesofamydemma.com"],
             "social_media": {
                 "Facebook": "http://www.facebook.com/amy.demma.law",
-                "Twitter": "http://twitter.com/amydemma",
                 "LinkedIn": "http://www.linkedin.com/in/amydemma"
             },
             "focuses": ["ART"]
@@ -276,7 +292,9 @@
             "social_media": {
                 "Facebook": "https://www.facebook.com/MelissaBBrismanEsq/",
                 "Twitter": "https://twitter.com/melissabrisman",
-                "LinkedIn": "https://www.linkedin.com/in/melissa-brisman-84a7736?authType=name&authToken=VAWz&trk=hp-feed-member-nam"
+                "LinkedIn": "https://www.linkedin.com/in/melissabrisman/",
+                "YouTube": "https://www.youtube.com/@MelissaBrismanesq/videos",
+                "TikTok": "https://www.instagram.com/melissabrismanesq/"
             },
             "focuses": ["Adoption", "ART"]
         },
@@ -327,9 +345,7 @@
             "phone": "212-953-6447",
             "email": "anthony@timeforfamilies.com",
             "websites": ["http://www.timeforfamilies.com"],
-            "social_media": {
-                "Twitter": "https://twitter.com/AnthonyMBrown"
-            },
+            "social_media": {},
             "focuses": ["Adoption", "ART"]
         },
         {
@@ -380,23 +396,6 @@
             "websites": ["http://www.sarisohnlaw.com/"],
             "social_media": {},
             "focuses": ["Adoption"]
-        },
-        {
-            "id": 25,
-            "name": "Brian K. Esser, Esq.",
-            "image": "Brian-Esser.jpg",
-            "law_firm": "Law Office of Brian Esser, PLLC",
-            "addresses": ["41 Flatbush Avenue, Suite 1"],
-            "cities": ["Brooklyn"],
-            "states": ["NY"],
-            "zips": ["11217"],
-            "phone": "718-747-8447",
-            "email": "brian@esserlawoffice.com",
-            "websites": ["http://www.esserlawoffice.com"],
-            "social_media": {
-                "Twitter": "https://twitter.com/brianesseresq"
-            },
-            "focuses": ["Adoption", "ART"]
         },
         {
             "id": 36,
