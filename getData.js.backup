@@ -81,7 +81,4 @@ module.exports = async () => ({
             return meta;
         })(),
     },
-    'governing-documents.ejs': {
-        page: 'governing-documents',
-    },
 });

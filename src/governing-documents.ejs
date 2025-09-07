@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%- include('partials/head.ejs') %>
+    <link rel="stylesheet" href="/public/css/governing-documents.css">
+    <title>Governing Documents | NYAAFF</title>
+</head>
+<body>
+<%- include("partials/header.ejs", {page: "governing-documents" }) %>
+<div class="top-image">
+    <div class="text-wrapper">
+        <h1 class="top-title governing-documents--title">Governing Documents</h1>
+        <span class="subtext">Our Foundation</span>
+    </div>
+</div>
+<div class="content-wrapper">
+    <h2>NYAAFF Bylaws</h2>
+    <p class="info">Below you can find our organizational bylaws that govern how NYAAFF operates and conducts its business.</p>
+    
+    <div class="governing-documents-list">
+        <div class="governing-documents-list--item">
+            <h3 class="title">NYAAFF Bylaws</h3>
+            <p class="description">The official bylaws of New York Attorneys for Adoption & Family Formation, outlining our organizational structure, membership requirements, and operational procedures.</p>
+            <div class="file-list">
+                <a target="_blank" href="/public/assets/governing-documents/nyaaff-bylaws.pdf" class="file-list--item btn">Download PDF Document (.pdf)</a>
+            </div>
+        </div>
+    </div>
+</div>
+<%- include('partials/footer.ejs') %>
+</body>
+</html>

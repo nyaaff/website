@@ -1,0 +1,66 @@
+.top-image {
+    background-image: url('/public/assets/images/courthouse.jpg');
+}
+
+.governing-documents--title {
+    font-size: 70px;
+}
+
+@media screen and (max-width: 975px) {
+    .governing-documents--title {
+        font-size: 50px;
+    }
+}
+
+@media screen and (max-width: 675px) {
+    .governing-documents--title {
+        font-size: 35px;
+    }
+}
+
+.governing-documents-list {
+    margin: 30px 100px;
+}
+
+@media screen and (max-width: 600px) {
+    .governing-documents-list {
+        margin: 30px 0;
+    }
+}
+
+.governing-documents-list--item {
+    margin: 50px 0;
+}
+
+.governing-documents-list--item .title {
+    font-size: 25px;
+    margin: 5px 0;
+}
+
+.governing-documents-list--item .description {
+    font-size: 17px;
+    margin: 15px 0;
+    line-height: 1.5;
+}
+
+.file-list {
+    display: block;
+    margin-top: 20px;
+}
+
+.file-list--item {
+    display: inline-block;
+    margin: 10px 15px 10px 0;
+    padding: 10px 20px;
+    background-color: #3075be;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.file-list--item:hover {
+    background-color: #1f4b7b;
+    color: white;
+    text-decoration: none;
+}
