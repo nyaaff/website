@@ -456,23 +456,6 @@
             "focuses": ["ART"]
         },
         {
-            "id": 49,
-            "name": "Kurt M. Hughes, Esq.",
-            "image": "Kurt-Hughes.jpg",
-            "law_firm": "Tarnelli & Hughes, LLP",
-            "addresses": ["431 Pine St., Suite 300"],
-            "cities": ["Burlington"],
-            "states": ["VT"],
-            "zips": ["05401"],
-            "phone": "802-540-1738",
-            "email": "kurt@tarnellihugheslaw.com",
-            "websites": ["https://tarnellihugheslaw.com/kurt-hughes"],
-            "social_media": {
-                "LinkedIn": "https://www.linkedin.com/in/kurt-hughes-8b3b4028/"
-            },
-            "focuses": ["Adoption", "ART"]
-        },
-        {
             "id": 48,
             "name": "Maria-Alana Racine",
             "image": "",
