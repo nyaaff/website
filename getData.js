@@ -25,10 +25,16 @@ module.exports = async () => ({
     },
     'members.ejs': {
         members: (() => {
-            Object.keys(members)
-                .slice(1)
-                .forEach((key) => {
-                    members[key] = members[key].sort((a, b) => {
+            // Filter to only include current members (default to current if status not specified)
+            Object.keys(members).forEach((key) => {
+                members[key] = members[key]
+                    .filter((member) => {
+                        // If status is not specified, assume current
+                        // Only filter out if explicitly marked as non-current
+                        const status = member.status?.toLowerCase();
+                        return !status || status === 'current' || status === 'active';
+                    })
+                    .sort((a, b) => {
                         const getSortName = (str) => {
                             const split = str
                                 .replace(/, ?Esq\.( ?, ?LCSW)?/, '')
@@ -39,7 +45,7 @@ module.exports = async () => ({
                             getSortName(b.name)
                         );
                     });
-                });
+            });
 
             const ids = [];
             Object.values(members)

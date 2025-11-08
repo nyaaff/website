@@ -33,7 +33,8 @@
             "websites": ["http://www.lawrsm.com"],
             "social_media": {
                 "Facebook": "https://www.facebook.com/nycfamilylaw/",
-                "LinkedIn": "https://www.linkedin.com/in/rebecca-mendel-74479a11/"
+                "LinkedIn": "https://www.linkedin.com/in/rebecca-mendel-74479a11/",
+                "Instagram": "https://www.instagram.com/rosinsteinhagenmendel/"
             },
             "focuses": ["Adoption", "ART"]
         },
@@ -381,7 +382,7 @@
             "email": "liz@StorkLawyer.com",
             "websites": ["http://www.StorkLawyer.com"],
             "social_media": {},
-            "focuses": ["Adoption", "ART"]
+            "focuses": ["ART"]
         },
         {
             "id": 23,
