@@ -31,8 +31,13 @@ module.exports = async () => ({
                     .filter((member) => {
                         // If status is not specified, assume current
                         // Only filter out if explicitly marked as non-current
-                        const status = member.status?.toLowerCase();
-                        return !status || status === 'current' || status === 'active';
+                        const status =
+                            member.status && member.status.toLowerCase();
+                        return (
+                            !status ||
+                            status === 'current' ||
+                            status === 'active'
+                        );
                     })
                     .sort((a, b) => {
                         const getSortName = (str) => {
