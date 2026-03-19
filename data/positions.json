@@ -1,5 +1,45 @@
 [
     {
+        "title": "Letter in Support of Senate Bill S4481 creating an adoption tax credit.",
+        "date": "03-17-2026",
+        "billno": "S4481",
+        "position": "Support",
+        "status": "Pending",
+        "files": ["S4481 Adoption Tax Credit.pdf"]
+    },
+    {
+        "title": "Letter in Opposition to A4940A & S5240 establishing procedures regarding orders of post-termination visitation and/or contact between a child and such child’s parent.",
+        "date": "03-17-2026",
+        "billno": "A4940A/S5240",
+        "position": "Oppose",
+        "status": "Pending",
+        "files": ["S5240 & A4940 Post Termination Visitation.pdf"]
+    },
+    {
+        "title": "Letter in Support of A2425 & S5737 increasing the time frame for payments of certain expenses by adoptive parents",
+        "date": "03-17-2026",
+        "billno": "A2425/S5737",
+        "position": "Support",
+        "status": "Pending",
+        "files": ["S5737 & A2425 Birth Mother Expenses.pdf"]
+    },
+    {
+        "title": "Letter in Support of S7920 relating to dispositional alternatives for children placed with local social services agencies as destitute minors.",
+        "date": "03-17-2026",
+        "billno": "S7920",
+        "position": "Support",
+        "status": "Pending",
+        "files": ["S7920 Destitute Children.pdf"]
+    },
+    {
+        "title": "Letter in Support of S9316 & A8382A amending the New York State Family Court Act to incorporate gender neutral language.",
+        "date": "03-17-2026",
+        "billno": "S9316/A8382A",
+        "position": "Support",
+        "status": "Pending",
+        "files": ["S9316 & A8382 Gender Neutral Language.pdf"]
+    },
+    {
         "title": "Letter in Support of Bill A-1944 and S-3765 Providing Certificates of Birth Data for Adult Adoptees Born Abroad (5/16/25)",
         "date": "5/16/25",
         "billno": "Not Applicable",

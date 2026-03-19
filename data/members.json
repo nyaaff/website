@@ -301,21 +301,6 @@
             "focuses": ["Adoption", "ART"]
         },
         {
-            "id": 7,
-            "name": "Nancy M. Hartzband, Esq.",
-            "image": "Nancy-Hartzband.png",
-            "law_firm": "Reproductive Possibilities, LLC",
-            "addresses": ["One Paragon Drive, Suite 160"],
-            "cities": ["Montvale"],
-            "states": ["NJ"],
-            "zips": ["07645"],
-            "phone": "201-505-0078",
-            "email": "nancy@ReproductivePossibilites.com",
-            "websites": ["https://ReproductivePossibilities.com"],
-            "social_media": {},
-            "focuses": ["ART"]
-        },
-        {
             "id": 10,
             "name": "Michael S. Goldstein, Esq., LCSW",
             "image": "Michael-Goldstein.jpg",
@@ -470,23 +455,6 @@
             "websites": [""],
             "social_media": {},
             "focuses": []
-        },
-        {
-            "id": 46,
-            "name": "Michelle A Tarnelli, Esq.",
-            "image": "Michelle-Tarnelli.jpg",
-            "law_firm": "Tarnelli & Hughes, LLP",
-            "addresses": ["431 Pine St., Suite 300"],
-            "cities": ["Burlington"],
-            "states": ["VT"],
-            "zips": ["05401"],
-            "phone": "802-540-1738",
-            "email": "michelle@tarnellihugheslaw.com",
-            "websites": ["https://tarnellihugheslaw.com/michelle-tarnelli"],
-            "social_media": {
-                "LinkedIn": "https://www.linkedin.com/in/michelletarnelli/"
-            },
-            "focuses": ["Adoption", "ART"]
         },
         {
             "id": 44,

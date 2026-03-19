@@ -24,39 +24,7 @@
     <p class="info">Now foreign-born persons, adopted abroad or domestically by New Yorkers, can obtain a New York birth certificate, regardless of their age.  This fixes an inadvertent gap in the prior law which gave that right only to a "child," i.e., those under the age of 18.  As adoption attorneys, we are well aware of the challenges adoptees confront if they cannot prove their identity.  These adoptees should all, regardless of age, be entitled to security of a birth certificate issued by New York. Please help us to spread the word so that those impacted know that this problem has been corrected. People previously denied can apply now! The passage of this legislation also proves that government can and will act responsibly to correct a flaw in existing law. NYAAFF is proud of the role we play in drafting and gaining passage of this important and impactful legislation.</p>
     <h2>Position Letters</h2>
     <div class="efforts-list">
-        <% if (efforts.length > 0) { %>
-            <div class="effort-list--item">
-                <h3 class="title"><%= efforts[0].title %></h3>
-                <% if(!efforts[0].hideInfo) { %>
-                    <span class="info">Position: <%= efforts[0].position %></span>
-                    <span class="info">Status: <%= efforts[0].status %></span>
-                    <span class="info">Bill Number: <%= efforts[0].billno %></span>
-                    <div class="file-list">
-                        <% efforts[0].files.forEach((file, index) => { %>
-                            <a target="_blank" href="/public/assets/position-pdfs/<%= file.name %>"
-                               class="file-list--item btn"><%= file.date.toLocaleDateString() %></a>
-                        <% }); %>
-                    </div>
-                <% } %>
-                <% if(efforts[0].description) { %>
-                    <p class="effort--description"><%= efforts[0].description %></p>
-                <% } %>
-                <% if(efforts[0].partial) { %>
-                    <%- include(`partials/${efforts[0].partial}`) %>
-                <% } %>
-            </div>
-        <% } %>
-        <div class="effort-list--item">
-            <h3 class="title">Public Service Video in support of Senate Bill S. 3765 and Assembly Bill A1944 providing Certificates of Birth Data for Adult Adoptees Born Abroad</h3>
-            <span class="info">Position: Support</span>
-            <span class="info">Status: Pending</span>
-            <span class="info">Bill Number: S3765/A1944</span>
-            <div class="file-list">
-                <a target="_blank" href="https://wowza.nycourts.gov/vod/wowzaplayer.php?source=ji&video=Foreign_Adoptions_PSA_Final.mp4"
-                   class="file-list--item btn">4/22/2025</a>
-            </div>
-        </div>
-        <% for (let i = 1; i < efforts.length; i++) { %>
+        <% for (let i = 0; i < efforts.length; i++) { %>
             <div class="effort-list--item">
                 <h3 class="title"><%= efforts[i].title %></h3>
                 <% if(!efforts[i].hideInfo) { %>
@@ -78,6 +46,16 @@
                 <% } %>
             </div>
         <% } %>
+        <div class="effort-list--item">
+            <h3 class="title">Public Service Video in support of Senate Bill S. 3765 and Assembly Bill A1944 providing Certificates of Birth Data for Adult Adoptees Born Abroad</h3>
+            <span class="info">Position: Support</span>
+            <span class="info">Status: Pending</span>
+            <span class="info">Bill Number: S3765/A1944</span>
+            <div class="file-list">
+                <a target="_blank" href="https://wowza.nycourts.gov/vod/wowzaplayer.php?source=ji&video=Foreign_Adoptions_PSA_Final.mp4"
+                   class="file-list--item btn">4/22/2025</a>
+            </div>
+        </div>
     </div>
 </div>
 <%- include('partials/footer.ejs') %>
