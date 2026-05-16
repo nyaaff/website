@@ -88,11 +88,13 @@
     color: rgba(138, 138, 138, 0.84);
 }
 
-#sherriann-image {
+#sherriann-image,
+#denise-seidelman-image {
     display: block;
     margin: 0 auto;
-    width: 300px;
-    height: 450px;
+    max-width: 300px;
+    width: 100%;
+    height: auto;
 }
 
 @media screen and (max-width: 575px) {

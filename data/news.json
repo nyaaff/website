@@ -2,6 +2,10 @@
     "art": [
         {
             "type": "partial",
+            "path": "/news/denise-seidelman-fellow-of-distinction.ejs"
+        },
+        {
+            "type": "partial",
             "path": "/news/men-having-babies-conference.ejs"
         },
         {

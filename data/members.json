@@ -472,6 +472,27 @@
                 "Linkedin": "https://www.linkedin.com/in/nataliespeterman/"
             },
             "focuses": ["Adoption"]
+        },
+        {
+            "id": 52,
+            "name": "Melissa Torto, Esq.",
+            "image": "",
+            "law_firm": "Law Office of Melissa L. Torto",
+            "addresses": [
+                "90 Canal Street, Suite 400",
+                "100 Church Street, Suite 800"
+            ],
+            "cities": ["Boston", "New York"],
+            "states": ["MA", "NY"],
+            "zips": ["02151", "10007"],
+            "phone": "617-812-9974",
+            "email": "",
+            "websites": ["https://www.lawofficeofmelissaltorto.com"],
+            "social_media": {
+                "LinkedIn": "https://www.linkedin.com/in/melissa-torto-esq-17938729/",
+                "Facebook": "https://www.facebook.com/p/Law-Office-of-Melissa-L-Torto-61572517713756/"
+            },
+            "focuses": ["Adoption", "ART"]
         }
     ]
 }
